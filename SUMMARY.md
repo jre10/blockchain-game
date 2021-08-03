@@ -32,7 +32,7 @@
 
 ## Annexes
 
-* [Vocabulaire et sigles](annexes/vocabulaire-sigle.md)
+* [Vocabulaire et sigles](blockchain-pedagofique-af/blob/main/SUMMARY.md)
 
 ---
 
