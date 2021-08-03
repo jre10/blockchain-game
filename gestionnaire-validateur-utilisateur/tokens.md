@@ -1,10 +1,12 @@
 ---
-description: 'Présentation, création, gestion des tokens'
+description: 'Présentation, création, gestion des tokens df'
 ---
 
 # Tokens
 
 ## Présentation des tokens
+
+C'est la menu tokens quei sera utilisé pour le jeu de la tokenisation de la bouteille de Pétrus.
 
 ## Mon empreinte
 
@@ -12,7 +14,7 @@ description: 'Présentation, création, gestion des tokens'
 
 ## Acheter des STCs
 
-## Transferer des tokens
+## Transférer des tokens
 
 ## Transferts en attente
 
