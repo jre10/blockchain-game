@@ -6,11 +6,13 @@ description: >-
 
 # Avant-propos et remerciements
 
+## Avant-propos et remerciements
+
 {% hint style="danger" %}
 Version 03.08.2021 en cours de mise à jour
 {% endhint %}
 
-## Avant-propos
+### Avant-propos
 
 Le présent livre, Blockchain - Découverte et Applications avec Acadee-Formation, vous propose, à la suite de la formation DeFi -lien- de découvrir concrètement une application blockchain et de manipuler dessus.
 
@@ -26,17 +28,17 @@ Toute l'équipe d'Acadee-Formation vous souhaite une bonne lecture et vous dit �
 
 _Note : L'accès est réservé aux personnes enregistrées à la formation DeFi. Formation éligible au CPF. Plus d'information ici -Lien-_
 
-## Remerciements <a id="remerciements"></a>
+### Remerciements <a id="remerciements"></a>
 
 Nous remercions Benjamin Farragi et toute son équipe de Spuro.
 
 Nous remercions Samuel Dumas de Acadee-formation.
 
+## Sommaire du document
 
----
-# Sommaire du document
-[Lien vers le sommaire](/SUMMARY.md)
+[Lien vers le sommaire](https://github.com/jre10/blockchain-pedagofique-af/tree/a49c6892e4e14c83d2ac2b5a01838388dba14bd5/SUMMARY.md)
 
+## Licence
 
-# Licence
 Se renseigner auprès de l'auteur.
+
