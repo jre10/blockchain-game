@@ -22,7 +22,7 @@ Entrer votre identifiant et la "Clé unique" qui vous ont été communiqués.
 Une `Clé unique` n'est pas un mot de passe que l'on peut redemander en ligne \(Voir les Généralités\). Si vous avez perdu votre `clé unique`, contacter l'administrateur de la plateforme concernée.
 {% endhint %}
 
-![Page d&apos;accueil de l&apos;administrateur. Acc&#xE8;s au sous-medu d&apos;administration par le menu de gauche](../.gitbook/assets/v19-accueil-admin%20%282%29%20%283%29%20%281%29.png)
+![Page d&apos;accueil de l&apos;administrateur. Acc&#xE8;s au sous-medu d&apos;administration par le menu de gauche](../.gitbook/assets/v19-accueil-admin%20%282%29%20%283%29%20%282%29.png)
 
 {% hint style="success" %}
 À noter que dans le bandeau supérieur, il apparaît : Le logo de Acadee-Formation, l'identifiant de la personne connectée et la nom de la blockchain.

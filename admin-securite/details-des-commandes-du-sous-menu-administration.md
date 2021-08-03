@@ -74,7 +74,7 @@ La liste des gestionnaires créé par l'administrateur apparaît ici. Un gestion
 
 Les statuts d'Administrateur et de Gestionnaires sont affichés.
 
-![](../.gitbook/assets/v19-liste-gestionnaire%20%282%29%20%284%29%20%283%29.png)
+![](../.gitbook/assets/v19-liste-gestionnaire%20%282%29%20%284%29%20%285%29.png)
 
 ### A propos de la colonne Empreinte
 
