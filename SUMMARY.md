@@ -38,10 +38,3 @@
 
 * [À supprimer - Notes](a-supprimer-notes.md)
 
-
-# Sommaire du docuemnt
-[Lien vers le sommaire](blob/main/SUMMARY.md)
-
-
-# Licence
-Se renseigner auprès de l'auteur.
