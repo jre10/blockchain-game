@@ -8,17 +8,9 @@ description: >-
 
 ## Présentation des smart contracts
 
-
-
 ## Lettre de crédit
 
 ### Proposer un contrat
 
-
-
 ### Liste des contrats
-
-
-
-
 

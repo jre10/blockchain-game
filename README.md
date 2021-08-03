@@ -6,6 +6,10 @@ description: >-
 
 # Avant-propos et remerciements
 
+{% hint style="danger" %}
+Version 03.08.2021 en cours de mise à jour
+{% endhint %}
+
 ## Avant-propos
 
 Le présent livre, Blockchain - Découverte et Applications avec Acadee-Formation, vous propose, à la suite de la formation DeFi -lien- de découvrir concrètement une application blockchain et de manipuler dessus.

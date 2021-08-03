@@ -6,11 +6,5 @@ description: 'Présentation, création et gestion des fonctions transversales'
 
 ## Tracer mon document
 
-
-
 ## Invalder mon compte
-
-
-
-
 
