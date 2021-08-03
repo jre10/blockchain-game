@@ -4,7 +4,7 @@ description: Des notes et brouillons temporaires
 
 # À supprimer - Notes
 
-### Nouvelle plateforme
+## Nouvelle plateforme
 
 L'écran
 
@@ -26,7 +26,7 @@ Le contenu du courriel à la création
 >
 > 9 Rue Gustave Eiffel 10430 Rosières-Près-Troyes
 
-### Code de récupération de la clé unique
+## Code de récupération de la clé unique
 
 Lors de la création du gestionnaire, un courriel est envoyé pour la confirmation.
 
@@ -37,6 +37,4 @@ Ce courriel contient un lien pour télécharger un PDF qui contient le code de r
 Le code est envoyé dans un PDF
 
 ![Code de r&#xE9;cup&#xE9;ration d&apos;une cl&#xE9; unique. ](.gitbook/assets/v03-code-recuperation-pdf1.png)
-
-
 
