@@ -34,7 +34,7 @@ Nous remercions Samuel Dumas de Acadee-formation.
 
 
 ---
-# Sommaire du docuemnt
+# Sommaire du document
 [Lien vers le sommaire](/SUMMARY.md)
 
 
