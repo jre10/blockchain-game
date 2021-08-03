@@ -7,7 +7,7 @@ description: >-
 
 # La blockchain pédagogique de Acadee-Formation
 
-## L'accès à la plateforme et les nodes <a id="bkmrk-la-location-ou-la-mi"></a>
+## , qui vont comprendre des applications spécifiques basées sur la blockchain comme : L'accès à la plateforme et les nodes <a id="bkmrk-la-location-ou-la-mi"></a>
 
 L'accès à une blockchain se fait par un navigateur et/ou par une application mobile.
 
@@ -56,14 +56,14 @@ Remarque : la version de la plateforme, continuellement améliorée, se trouve t
 La blockchain Acadee-Formation dispose de plusieurs sections identifiable par les accès dans le menu de gauche :
 
 1. **La partie `Administration`**. Partie technique gérée par l'administrateur. Note : Pour les autres rôles, le sous-menu est visible mais les commandes ne sont pas utilisable. Si vous cliquez dessus, un message vous avertit que vous n'avez pas l'accès.
-2. **La partie `Sécurité`**. Accessible au gestionnaire, perment de vérifier l'intégrité des registres et codes sources.
+2. **La partie `Sécurité`**. Accessible au gestionnaire, permet de vérifier l'intégrité des registres et codes sources.
 3. **La partie `SmartContracts`**. Partie qui permet de réaliser des smarts contracts, des règles de gestions entre tous les membres, quelque soit le nodes.
 4. **La partie `Fonctionnalités`**, pour des fonctions transversales à plusieurs utilisations comme
    1. Tracer mon document
    2. Invalider mon compte
    3. Gestion de la preuve \(authenticité de document et du propriétaire, un Ledgerofproof\)
 5. **La partie `Tokens`**, pour la tokénisation d'un bien et les échanges de ces tokens
-6. Et enfin la **partie `Applications`**, qui vont comprendre des applications spécifiques basées sur la blockchain come : 
+6. Et enfin la **partie `Applications`**
    1. L'application Suffrage. Pour des votes.
    2. Ekoco, une application qui "protège la planète" et qui "récompensera de vos efforts en tokens ". [http://www.ekoco.fr](http://www.ekoco.fr)
 

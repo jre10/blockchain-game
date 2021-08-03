@@ -2,9 +2,9 @@
 
 ## Rôle des validateurs
 
-Le processus de Gestion de la preuve de la blockchain peut demander la validation d'un document, autres, par une tierce personne. C'est le valideur qui tient cette fonction de validation. À noter que la gestion de la preuve peut se faire avec ou sans validateur.
+Le processus de Gestion de la preuve de la blockchain peut demander la validation d'un document, autres, par une tierce personne. C'est le validateur qui tient cette fonction de validation. À noter que la gestion de la preuve peut se faire avec ou sans validateur.
 
-Un valideur ou plusieurs validateurs doivent être créés par le gestionnaire ou par l'administrateur.
+Un ou plusieurs validateurs doivent être créés par le gestionnaire ou par l'administrateur.
 
 Un gestionnaire peut demander aussi à être un validateur.
 

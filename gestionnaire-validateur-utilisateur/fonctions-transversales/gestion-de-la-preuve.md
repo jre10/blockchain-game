@@ -8,7 +8,7 @@ description: >-
 
 ## Présentation de la Gestion de la preuve
 
-Le menu Gestion de la preuve permet de réaliser un processus complet d'autentification de documents et leur vérification. Une fois identifié, le document, et uniquement ce même document au même format, sera authentifiable dans la blockchain Acadee-Formation. Son propriétaire, celui qu'il l'a identifier, pourra aussi démonter sa propriété.
+Le menu Gestion de la preuve permet de réaliser un processus complet d'autentification de documents et leur vérification. Une fois identifié, le document, et uniquement ce même document au même format, sera identifiable dans la blockchain Acadee-Formation. Son propriétaire, celui qu'il l'a identifier, pourra aussi démonter sa propriété.
 
 Le sous-menu Gestion de preuve, dans la rubrique Fonctionnalités. Voir le sous-menu de gauche. L'écran ici est celui des Validateurs.
 
@@ -51,7 +51,7 @@ En bas de l'écran centrale, deux sous-menus apparaissent en cliquant sur les ch
 * Paramètres avancés \(non étudié ici\)
 * Validateur. C'est ici que vous allez choisir votre validateur.
 
-Les champs Pseudo et Clé de preuve sont ceux d'une personne qui a été déclarée comme utilisateur comme vu plus haut. Demême, la liste des validateurs est la liste des personnes qui été déclarées comme validateur comme vu plus haut.
+Les champs Pseudo et Clé de preuve sont ceux d'une personne qui a été déclarée comme utilisateur comme vu plus haut. De même, la liste des validateurs est la liste des personnes qui été déclarées comme validateur comme vu plus haut.
 
 ![L&apos;&#xE9;cran a &#xE9;t&#xE9; compl&#xE9;t&#xE9; avec le nom de l&apos;utilisateur et la s&#xE9;lection d&apos;un validateur.](../../.gitbook/assets/v19-document-info.png)
 
@@ -67,7 +67,7 @@ Cliquer sur valider pour envoyer le processus d'authentification vers le validat
 
 Pour voir les documents stockés, aller dans
 
-![](../../.gitbook/assets/v03-documents-voir.png)
+![](../../.gitbook/assets/v03-documents-voir%20%281%29%20%281%29.png)
 
 ## Stockage externe
 
