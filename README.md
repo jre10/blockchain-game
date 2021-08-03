@@ -32,3 +32,11 @@ Nous remercions Benjamin Farragi et toute son équipe de Spuro.
 
 Nous remercions Samuel Dumas de Acadee-formation.
 
+
+---
+# Sommaire du docuemnt
+[Lien vers le sommaire](blob/main/SUMMARY.md)
+
+
+# Licence
+Se renseigner auprès de l'auteur.
