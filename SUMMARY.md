@@ -32,7 +32,7 @@
 
 ## Annexes
 
-* [Vocabulaire et sigles](vocabulaire-sigle.md)
+* [Vocabulaire et sigles](annexes/vocabulaire-sigle.md)
 
 ---
 
