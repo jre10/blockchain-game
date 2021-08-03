@@ -6,6 +6,8 @@ description: >-
 
 # Les gestionnaires
 
+> Le processus de création d'un gestionnaire, initié uniquement par l'administrateur, débute par l'envoi d'un e-mail à la personne concernée. Le futur gestionnaire complétera seul de le processus.
+
 ## Rôle du gestionnaire
 
 Le gestionnaire est la \(ou les\) personne qui gère le site du point de vue des usages.
@@ -20,9 +22,9 @@ Le gestionnaire reste sous la dépendance de l'administrateur.
 
 Le gestionnaire est créé par l'administrateur. Pour plus de détails, voir le chapitre Détails des commandes du sous-menu Administration.
 
-Le processus de création d'un gestionnaire, initié uniquement par l'administrateur, débute par l'envoi d'un email à la personne concernée. Le futur gestionnaire complètera seul de le processus.
 
-Le processus côté gestionnaire comme avec l'email suivant :
+
+Le processus côté gestionnaire comme avec l’e-mail suivant :
 
 > **Bonjour,**
 >
@@ -48,9 +50,9 @@ Un Rappel s'affiche, cocher la case \`J'ai bien compris ...\` et cliquer sur \`C
 
 ![](../.gitbook/assets/v19-rappel-cle-inscription-gestionnaire.png)
 
-Votre compte de gestionnaire a été créé à par le processus enclenché par le lien dans l'email.
+Votre compte de gestionnaire a été créé à par le processus enclenché par le lien dans l’e-mail.
 
-À noter que ce processus s'est déroulé sans l'administrateur. Ce dernier ayant uniquement inité le processus de création du gestionnaire avec seulement l'email du futur gestionnaire.
+À noter que ce processus s'est déroulé sans l'administrateur. Ce dernier ayant uniquement initié le processus de création du gestionnaire avec seulement l'email du futur gestionnaire.
 
 L'administrateur ne connaît pas les données du gestionnaire.
 

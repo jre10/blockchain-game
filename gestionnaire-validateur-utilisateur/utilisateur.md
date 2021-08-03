@@ -14,7 +14,7 @@ Les utilisateurs sont créés par les gestionnaires. Les administrateurs peuvent
 Prochainement, les comptes utilisateurs seront créés par l'utilisateur lui-même, comme pour les gestionnaires.
 {% endhint %}
 
-Dans Fonctionnalités &gt; Gestion de preuve &gt; Créé un utilisateur, remplir les différents champps.
+Dans Fonctionnalités &gt; Gestion de preuve &gt; Créé un utilisateur, remplir les différents champs.
 
 ![Dans Fonctionnalit&#xE9;s &amp;gt; Gestion de preuve &amp;gt; Cr&#xE9;&#xE9; un utilisateur](../.gitbook/assets/v19_utilisateur-creation.png)
 
@@ -36,11 +36,11 @@ La fonction n'est pas encore implémentée comme elle l'est pour les gestionnair
 
 Dans Fonctionnalités &gt; Invalider mon compte, il est possible d'invalider son compte.
 
-Entrer les identificants dans l'écran proposé
+Entrer les identifiants dans l'écran proposé
 
 ![Dans Fonctionnalit&#xE9;s &amp;gt; Invalider mon compte, entrer l&apos;identification. ](../.gitbook/assets/v19-invalider-compte-ecran.png)
 
 Confirmer l'invalidation en entrant "INVALIDER" dans le champ texte.
 
-![Confirmer l&apos;invalidation du compte.](../.gitbook/assets/v19-invalider-compte-confirmer.png)
+![Confirmer l&apos;invalidation du compte.](../.gitbook/assets/v19-invalider-compte-confirmer%20%281%29%20%281%29.png)
 

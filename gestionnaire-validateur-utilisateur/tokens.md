@@ -12,7 +12,7 @@ description: 'Présentation, création, gestion des tokens'
 
 ## Acheter des STCs
 
-## Transferer des tokens
+## Transférer des tokens
 
 ## Transferts en attente
 
