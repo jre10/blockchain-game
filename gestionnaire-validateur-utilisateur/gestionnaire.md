@@ -37,18 +37,18 @@ Le processus côté gestionnaire comme avec l'email suivant :
 Cliquer sur le \`lien vers l'inscription\` pour compléter l'inscription. Un écran permet d'enregistrer les données liées au futur Gestionnaire.
 
 {% hint style="success" %}
-Il est recommandé d'enregistrer vous information d'abord dans votre gestionnaire de mots de passe ou votre wallet. Ensuite, utiliser cet outil pour documenter l'enregistrement. Vous serez assuré d'avoir 
+Il est recommandé d'enregistrer vous information d'abord dans votre gestionnaire de mots de passe ou votre wallet. Ensuite, utiliser cet outil pour documenter l'enregistrement. Vous serez assuré d'avoir
 {% endhint %}
 
 ![Dans Administration &amp;gt; Cr&#xE9;er un gestionnaire, enregistrement avec un gestionnaire de mots de passe \(BW\)](../.gitbook/assets/v19_07_2021_02.png)
 
-Documenter les champs, idéalement avec un outil, puis cliquer sur \`CRÉER MON COMPTE. 
+Documenter les champs, idéalement avec un outil, puis cliquer sur \`CRÉER MON COMPTE.
 
 Un Rappel s'affiche, cocher la case \`J'ai bien compris ...\` et cliquer sur \`Continuer\`
 
 ![](../.gitbook/assets/v19-rappel-cle-inscription-gestionnaire.png)
 
-Votre compte de gestionnaire a été créé à par le processus enclenché par le lien dans l'email. 
+Votre compte de gestionnaire a été créé à par le processus enclenché par le lien dans l'email.
 
 À noter que ce processus s'est déroulé sans l'administrateur. Ce dernier ayant uniquement inité le processus de création du gestionnaire avec seulement l'email du futur gestionnaire.
 
@@ -58,7 +58,7 @@ L'écran de connexion de connexion s'ouvre, le gestionnaire peut entrer ses donn
 
 ![](../.gitbook/assets/v19-connexion-suite-inscription.png)
 
-L'écran d'accueil du gestionnaire apparaît. 
+L'écran d'accueil du gestionnaire apparaît.
 
 Voir dans le bandeau supérieur l'identifiant du gestionnaire.
 
@@ -70,7 +70,7 @@ Exemple avec la commande \`Liste des notes\`
 
 ## Liste et suppression des gestionnaires
 
-La liste des gestionnaires ainsi que la suppression d'un gestionnaire ne peut être faite que par l'administrateur. Pour plus de détails, voir le chapitre [Détails des commandes du sous-menu Administration](../details-des-commandes-du-sous-menu-administration.md).
+La liste des gestionnaires ainsi que la suppression d'un gestionnaire ne peut être faite que par l'administrateur. Pour plus de détails, voir le chapitre [Détails des commandes du sous-menu Administration](../admin-securite/details-des-commandes-du-sous-menu-administration.md).
 
 ## Commandes accessibles aux gestionnaires
 

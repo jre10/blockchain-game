@@ -7,7 +7,7 @@ description: >-
 
 # La blockchain pédagogique de Acadee-Formation
 
-### L'accès à la plateforme et les nodes <a id="bkmrk-la-location-ou-la-mi"></a>
+## L'accès à la plateforme et les nodes <a id="bkmrk-la-location-ou-la-mi"></a>
 
 L'accès à une blockchain se fait par un navigateur et/ou par une application mobile.
 
@@ -19,7 +19,7 @@ Un accès par `nom d'utilisateur` et `clé unique` vous sera remis
 
 A noter que vous n'aurez pas un mot de passe \(récupérable\) à entrer mais votre `clé unique`.
 
-### Les nodes <a id="bkmrk-les-nodes"></a>
+## Les nodes <a id="bkmrk-les-nodes"></a>
 
 {% hint style="info" %}
 Ce qui suit peut apparaître trop technique et relever de l'administration du système. Nous pensons que cela fait parti de la "culture blockchain" à connaître pour une bonne compréhension des processus. Nous avons tenté d'être le plus pratique possible et orienté utilisateur.
@@ -43,29 +43,29 @@ A tout instant, l'administrateur de la blockchain faire ces vérifications.
 
 La blockchain pédagogique Acadee-Formation dispose d'un seul node ce qui est suffisant pour la démonstration.
 
-### Navigation dans la plateforme <a id="bkmrk-cete-blockchain-comp"></a>
+## Navigation dans la plateforme <a id="bkmrk-cete-blockchain-comp"></a>
 
 Les chapitres suivants détaillent les navigations sur la plateforme. Le présent chapitre a pour but de vous familiariser avec cette plateforme afin de mieux intégrer "mentalement" son interface.
 
-#### Page d'accueil <a id="bkmrk-page-d%27accueil"></a>
+### Page d'accueil <a id="bkmrk-page-d%27accueil"></a>
 
 Remarque : la version de la plateforme, continuellement améliorée, se trouve tout en bas du menu de gauche. Bien repérer cette référence en cas d'échanges. C'est une référence comme : `v19-07-2021`
 
-#### L'organisation de la plateforme <a id="bkmrk-l%27organisation-de-la"></a>
+### L'organisation de la plateforme <a id="bkmrk-l%27organisation-de-la"></a>
 
 La blockchain Acadee-Formation dispose de plusieurs sections identifiable par les accès dans le menu de gauche :
 
 1. **La partie `Administration`**. Partie technique gérée par l'administrateur. Note : Pour les autres rôles, le sous-menu est visible mais les commandes ne sont pas utilisable. Si vous cliquez dessus, un message vous avertit que vous n'avez pas l'accès.
-2.  **La partie `Sécurité`**. Accessible au gestionnaire, perment de vérifier l'intégrité des registres et codes sources.
-3.  **La partie `SmartContracts`**. Partie qui permet de réaliser des smarts contracts, des règles de gestions entre tous les membres, quelque soit le nodes.
+2. **La partie `Sécurité`**. Accessible au gestionnaire, perment de vérifier l'intégrité des registres et codes sources.
+3. **La partie `SmartContracts`**. Partie qui permet de réaliser des smarts contracts, des règles de gestions entre tous les membres, quelque soit le nodes.
 4. **La partie `Fonctionnalités`**, pour des fonctions transversales à plusieurs utilisations comme
    1. Tracer mon document
    2. Invalider mon compte
    3. Gestion de la preuve \(authenticité de document et du propriétaire, un Ledgerofproof\)
-5.  **La partie `Tokens`**, pour la tokénisation d'un bien et les échanges de ces tokens
+5. **La partie `Tokens`**, pour la tokénisation d'un bien et les échanges de ces tokens
 6. Et enfin la **partie `Applications`**, qui vont comprendre des applications spécifiques basées sur la blockchain come : 
    1. L'application Suffrage. Pour des votes.
-   2. Ekoco, une application qui "protège la planète" et qui "récompensera de vos efforts en tokens ". http://www.ekoco.fr
+   2. Ekoco, une application qui "protège la planète" et qui "récompensera de vos efforts en tokens ". [http://www.ekoco.fr](http://www.ekoco.fr)
 
 Ces applications sont créées et développées par la société Spuro ou des éditeurs indépendants.
 

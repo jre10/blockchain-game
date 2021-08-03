@@ -1,6 +1,6 @@
 # Les validateurs
 
-### Rôle des validateurs
+## Rôle des validateurs
 
 Le processus de Gestion de la preuve de la blockchain peut demander la validation d'un document, autres, par une tierce personne. C'est le valideur qui tient cette fonction de validation. À noter que la gestion de la preuve peut se faire avec ou sans validateur.
 
@@ -8,7 +8,7 @@ Un valideur ou plusieurs validateurs doivent être créés par le gestionnaire o
 
 Un gestionnaire peut demander aussi à être un validateur.
 
-### Création d'un validateur
+## Création d'un validateur
 
 Le validateur est créé par le gestionnaire avec la commande Fonctionnalités &gt; Gestion de la preuve &gt; Validateurs.
 
@@ -38,25 +38,27 @@ Un email a été envoyé qui confirme la création et indique la clé de preuve.
 >
 > **Spuro**
 
-    En cliquant sur Validations en attente, vous êtes automatiquement accepté.
+```text
+En cliquant sur Validations en attente, vous êtes automatiquement accepté.
+```
 
 Retour dans l'écran Validateurs, le nouveau validateur apparaît. La clé de rpreuve doit être gardée.
 
 ![](../.gitbook/assets/v19-validateur-nouveau.png)
 
-2. DEVENIR VALIDATEUR AVEC MON COMPTE GESTIONNAIRE
+1. DEVENIR VALIDATEUR AVEC MON COMPTE GESTIONNAIRE
 
 En cliquant sur ce bouton, le compte qui est ouvert, gestionnaire ou administrateur, devient automatiquement un validateur. Dans l'exemple ci-dessous, le compte était Acadee, il se retrouve désormais dans la liste.
 
 ![](../.gitbook/assets/v19-validateur-transformation-compte.png)
 
-###  Suppression d'un validateur
+## Suppression d'un validateur
 
 Le validateur peut être facilement supprimé en cliquant sur la croix à droite de son nom par le gestionnaire ou le validateur.
 
 Il n'y a pas d'écran de confirmation.
 
-###  Rôle du validateur
+## Rôle du validateur
 
-Voir le détail de ce rôle dans les fonctionnalités transversales :[Fonctionnalités]() &gt; Gestion de la preuve.
+Voir le détail de ce rôle dans les fonctionnalités transversales :[Fonctionnalités](validateur.md) &gt; Gestion de la preuve.
 

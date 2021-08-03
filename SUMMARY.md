@@ -22,17 +22,13 @@
 
 ## Administration et Sécurité <a id="admin-securite"></a>
 
----
-
-* [Administration de la plateforme](admin-plateforme.md)
-* [Détails des commandes du sous-menu Administration](details-des-commandes-du-sous-menu-administration.md)
-* [Sécurité de la plateforme](securite-plateforme.md)
+* [Administration de la plateforme](admin-securite/admin-plateforme.md)
+* [Détails des commandes du sous-menu Administration](admin-securite/details-des-commandes-du-sous-menu-administration.md)
+* [Sécurité de la plateforme](admin-securite/securite-plateforme.md)
 
 ## Le Jeu de la Blockchain Pédagogique Acadee-Formation <a id="jeu-acadee-formation"></a>
 
----
-
-* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus](regles-jeu-pedagogique.md)
+* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus](jeu-acadee-formation/regles-jeu-pedagogique.md)
 
 ## Annexes
 
