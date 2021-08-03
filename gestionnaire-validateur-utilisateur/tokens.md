@@ -6,7 +6,7 @@ description: 'Présentation, création, gestion des tokens df'
 
 ## Présentation des tokens
 
-C'est la menu tokens quei sera utilisé pour le jeu de la tokenisation de la bouteille de Pétrus.
+C'est la menu tokens qui sera utilisé pour le jeu de la tokenisation de la bouteille de Pétrus.
 
 ## Mon empreinte
 
