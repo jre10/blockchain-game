@@ -7,13 +7,13 @@
 * [Généralités sur la blockchain et les tokens non-fongibles](introduction/generalites-sur-la-blockchain-et-les-token-non-fongibles.md)
 * [La blockchain pédagogique de Acadee-Formation](introduction/blockchain-pedagogique-de-acadee-formation.md)
 
-## Gestionnaire, validateurs et utilisateurs <a id="gestionnaire-validateur-utilisateur"></a>
+## Les acteurs de la Blockchain <a id="acteur"></a>
 
-* [Les gestionnaires](gestionnaire-validateur-utilisateur/gestionnaire.md)
-* [Les validateurs](gestionnaire-validateur-utilisateur/validateur.md)
-* [Les utilisateurs](gestionnaire-validateur-utilisateur/utilisateur.md)
+* [Les gestionnaires](acteur/gestionnaire.md)
+* [Les validateurs](acteur/validateur.md)
+* [Les utilisateurs](acteur/utilisateur.md)
 
-## Outils de la blockchain
+## Outils de la blockchain <a id="outil"></a>
 
 ---
 
@@ -25,7 +25,7 @@
   * [Vote](application/vote.md)
   * [Ekoco](application/ekoco.md)
 
-## Administration et Sécurité <a id="admin-securite"></a>
+## Administration et Sécurité de la blockchain <a id="admin-securite"></a>
 
 * [Administration de la plateforme](admin-securite/admin-plateforme.md)
 * [Détails des commandes du sous-menu Administration](admin-securite/details-des-commandes-du-sous-menu-administration.md)
@@ -38,6 +38,7 @@
 ## Annexes
 
 * [Vocabulaire et sigles](annexes/vocabulaire-sigle.md)
+* [Fiche de synthèse](annexes/synthese.md)
 
 ---
 

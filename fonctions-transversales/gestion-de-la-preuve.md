@@ -16,11 +16,11 @@ Le sous-menu Gestion de preuve, dans la rubrique Fonctionnalités. Voir le sous-
 
 ## Créer un utilisateur
 
-Voir le chapitre [Les utilisateurs](../gestionnaire-validateur-utilisateur/utilisateur.md)
+Voir le chapitre [Les utilisateurs](../acteur/utilisateur.md)
 
 ## Validateurs
 
-Voir le chapitre [Les validateurs](../gestionnaire-validateur-utilisateur/validateur.md)
+Voir le chapitre [Les validateurs](../acteur/validateur.md)
 
 ## Avec validation
 
