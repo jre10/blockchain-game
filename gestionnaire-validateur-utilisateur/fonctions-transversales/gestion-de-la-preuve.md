@@ -67,7 +67,7 @@ Cliquer sur valider pour envoyer le processus d'authentification vers le validat
 
 Pour voir les documents stockés, aller dans
 
-![](../../.gitbook/assets/v03-documents-voir%20%281%29%20%282%29%20%283%29%20%282%29.png)
+![](../../.gitbook/assets/v03-documents-voir%20%281%29%20%282%29%20%283%29%20%283%29%20%282%29.png)
 
 ## Stockage externe
 

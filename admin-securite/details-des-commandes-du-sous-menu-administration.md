@@ -8,7 +8,7 @@ description: Commandes et écrans du menu administration
 À noter que certains champs proposent de l'aide en ligne en cliquant sur l'icône ❔
 {% endhint %}
 
-![](../.gitbook/assets/v19-liste-gestionnaire%20%282%29%20%284%29%20%286%29.png)
+![](../.gitbook/assets/v19-liste-gestionnaire%20%282%29%20%284%29%20%286%29%20%286%29.png)
 
 ## Paramètres
 
@@ -74,7 +74,7 @@ La liste des gestionnaires créé par l'administrateur apparaît ici. Un gestion
 
 Les statuts d'Administrateur et de Gestionnaires sont affichés.
 
-![](../.gitbook/assets/v19-liste-gestionnaire%20%282%29%20%284%29%20%286%29%20%285%29.png)
+![](../.gitbook/assets/v19-liste-gestionnaire%20%282%29%20%284%29%20%286%29%20%286%29%20%285%29.png)
 
 ### A propos de la colonne Empreinte
 
