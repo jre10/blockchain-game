@@ -42,5 +42,5 @@ Entrer les identifiants dans l'écran proposé
 
 Confirmer l'invalidation en entrant "INVALIDER" dans le champ texte.
 
-![Confirmer l&apos;invalidation du compte.](../.gitbook/assets/v19-invalider-compte-confirmer%20%281%29%20%282%29%20%282%29.png)
+![Confirmer l&apos;invalidation du compte.](../.gitbook/assets/v19-invalider-compte-confirmer%20%281%29%20%282%29%20%283%29%20%282%29.png)
 

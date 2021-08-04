@@ -12,13 +12,18 @@
 * [Les gestionnaires](gestionnaire-validateur-utilisateur/gestionnaire.md)
 * [Les validateurs](gestionnaire-validateur-utilisateur/validateur.md)
 * [Les utilisateurs](gestionnaire-validateur-utilisateur/utilisateur.md)
-* [Smart Contracts](gestionnaire-validateur-utilisateur/smart-contracts.md)
-* [Fonctionnalités](gestionnaire-validateur-utilisateur/fonctions-transversales/README.md)
-  * [Gestion de la preuve](gestionnaire-validateur-utilisateur/fonctions-transversales/gestion-de-la-preuve.md)
-* [Tokens](gestionnaire-validateur-utilisateur/tokens.md)
-* [Applications](gestionnaire-validateur-utilisateur/application/README.md)
-  * [Vote](gestionnaire-validateur-utilisateur/application/vote.md)
-  * [Ekoco](gestionnaire-validateur-utilisateur/application/ekoco.md)
+
+## Outils de la blockchain
+
+---
+
+* [Fonctionnalités](fonctions-transversales/README.md)
+  * [Gestion de la preuve](fonctions-transversales/gestion-de-la-preuve.md)
+* [Smart Contracts](smart-contracts.md)
+* [Tokens](tokens.md)
+* [Applications](application/README.md)
+  * [Vote](application/vote.md)
+  * [Ekoco](application/ekoco.md)
 
 ## Administration et Sécurité <a id="admin-securite"></a>
 
