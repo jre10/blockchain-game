@@ -10,6 +10,7 @@
 
 ## Les acteurs de la Blockchain <a id="acteur"></a>
 
+* [Généralités sur les acteurs de la blockchain](acteur/generalites-sur-les-acteurs-de-la-blockchain.md)
 * [Les gestionnaires](acteur/gestionnaire.md)
 * [Les validateurs](acteur/validateur.md)
 * [Les utilisateurs](acteur/utilisateur.md)

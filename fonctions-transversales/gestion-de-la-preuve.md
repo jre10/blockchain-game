@@ -65,9 +65,20 @@ Cliquer sur valider pour envoyer le processus d'authentification vers le validat
 
 ## Voir mes documents
 
-Pour voir les documents stockés, aller dans
+Pour voir les documents stockés, aller dans Fonctionnalités &gt; Gestion de la preuve &gt; Voir mes documents, Dans le navigateurs de fichiers, sélectionner votre documents selon l'arborescence proposés. Cliquer sur votre fichier pour voir apparaître le contenu du fichier.
 
-![](../.gitbook/assets/v03-documents-voir%20%281%29%20%282%29%20%283%29%20%282%29.png)
+![](../.gitbook/assets/v03-documents-voir%20%281%29%20%282%29%20%283%29%20%283%29%20%282%29.png)
+
+À l'aide des quatre icônes en haut à droite de la fenêtre centrale, il est possible, pour les documents listés dans le sous-répertoire :
+
+* De tout sélectionner
+* De supprimer le ou les documents sélectionnés. Cela supprimera le document ou les documents du node mais pas son empreinte dans la blockchain.
+* Partager à d'autres nodes. Le ou les documents sélectionnés seront disponibles sur touts les nodes.
+* Télécharger. Le ou les documents sélectionnés pourront être téléchargés.
+
+Exemple avec 
+
+![](../.gitbook/assets/v03-document-partager-nodes.png)
 
 ## Stockage externe
 
