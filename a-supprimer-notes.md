@@ -4,6 +4,13 @@ description: Des notes et brouillons temporaires
 
 # À supprimer - Notes
 
+## Tâches
+
+* [ ] Point sur les versions
+* [ ] Règles du jeu à améliorer
+* [ ] Vocabulaire et sigles
+* [ ] Revoir les rôles pour faire les transferts
+
 ## Nouvelle plateforme
 
 L'écran
