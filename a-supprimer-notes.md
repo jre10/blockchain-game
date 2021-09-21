@@ -4,7 +4,7 @@ description: Des notes et brouillons temporaires
 
 # À supprimer - Notes
 
-## Tâches
+## âches
 
 * [ ] Point sur les versions
 * [ ] Règles du jeu à améliorer
@@ -44,4 +44,16 @@ Ce courriel contient un lien pour télécharger un PDF qui contient le code de r
 Le code est envoyé dans un PDF
 
 ![Code de r&#xE9;cup&#xE9;ration d&apos;une cl&#xE9; unique. ](.gitbook/assets/v03-code-recuperation-pdf1.png)
+
+### Test images
+
+Insertion d'image du serveur, glisser :  pas modifiable !
+
+Avec la commande Image accessible à partir du curseur !
+
+![](.gitbook/assets/alwaysdata-accueil-2021.png)
+
+Insert palette et la commande palette !
+
+ ![](.gitbook/assets/v03-document-partager-nodes.png) 
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Introduction pratique à la blockchain et Découverte de la plateforme de Spuro
-  avec un bac à sable sur un VPS OVH
+  avec un bac à sable sur un VPS OVH.
 ---
 
 # Avant-propos et remerciements

@@ -20,7 +20,7 @@ Avant d'élaborer les conditions du smart contract, il est nécessaire de vérif
 
 ![Dans SmartsContracts &amp;gt; Lettre de cr&#xE9;dit &amp;gt; Proposer un contrat.](.gitbook/assets/v03-conditions-contrat.png)
 
-Message d'erreur en cas d'insuffisance de tokens à préter.
+Message d'erreur en cas d'insuffisance de tokens à prêter.
 
 ![Message d&apos;erreur si insuffisance de tokens lors de r&#xE9;daction d&apos;un contrat de pr&#xEA;t.](.gitbook/assets/v03-erreur-pas-assez-fongible.png)
 

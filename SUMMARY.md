@@ -7,6 +7,7 @@
 
 * [Généralités sur la blockchain et les tokens non-fongibles](introduction/generalites-sur-la-blockchain-et-les-token-non-fongibles.md)
 * [La blockchain pédagogique de Acadee-Formation](introduction/blockchain-pedagogique-de-acadee-formation.md)
+* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus \(draft\)](introduction/regles-jeu-pedagogique.md)
 
 ## Les acteurs de la Blockchain <a id="acteur"></a>
 
@@ -24,18 +25,14 @@
 * [Smart Contracts](smart-contracts.md)
 * [Tokens](tokens.md)
 * [Applications](application/README.md)
-  * [Vote](application/vote.md)
-  * [Ekoco](application/ekoco.md)
+  * [Vote \(À faire\)](application/vote.md)
+  * [Ekoco \(À faire\)](application/ekoco.md)
 
 ## Administration et Sécurité de la blockchain <a id="admin-securite"></a>
 
 * [Administration de la plateforme](admin-securite/admin-plateforme.md)
 * [Détails des commandes du sous-menu Administration](admin-securite/details-des-commandes-du-sous-menu-administration.md)
 * [Sécurité de la plateforme](admin-securite/securite-plateforme.md)
-
-## Le Jeu de la Blockchain Pédagogique Acadee-Formation <a id="jeu-acadee-formation"></a>
-
-* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus \(draft\)](jeu-acadee-formation/regles-jeu-pedagogique.md)
 
 ## Annexes
 
