@@ -19,7 +19,7 @@
 
 ---
 
-* [Fonctionnalités](fonctions-transversales/README.md)
+* [Fonctionnalités \(À faire\)](fonctions-transversales/README.md)
   * [Gestion de la preuve](fonctions-transversales/gestion-de-la-preuve.md)
 * [Smart Contracts](smart-contracts.md)
 * [Tokens](tokens.md)
@@ -35,12 +35,11 @@
 
 ## Le Jeu de la Blockchain Pédagogique Acadee-Formation <a id="jeu-acadee-formation"></a>
 
-* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus](jeu-acadee-formation/regles-jeu-pedagogique.md)
+* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus \(draft\)](jeu-acadee-formation/regles-jeu-pedagogique.md)
 
 ## Annexes
 
-* [Vocabulaire et sigles](annexes/vocabulaire-sigle.md)
-* [Fiche de synthèse](annexes/synthese.md)
+* [Annexes](annexes/annexes.md)
 
 ---
 

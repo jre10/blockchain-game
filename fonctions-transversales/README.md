@@ -2,9 +2,9 @@
 description: 'Présentation, création et gestion des fonctions transversales'
 ---
 
-# Fonctionnalités
+# Fonctionnalités \(À faire\)
 
 ## Tracer mon document
 
-## Invalder mon compte
+## Invalider mon compte
 

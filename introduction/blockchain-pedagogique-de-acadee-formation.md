@@ -7,8 +7,6 @@ description: >-
 
 # La blockchain pédagogique de Acadee-Formation
 
-## , qui vont comprendre des applications spécifiques basées sur la blockchain comme : L'accès à la plateforme et les nodes <a id="bkmrk-la-location-ou-la-mi"></a>
-
 L'accès à une blockchain se fait par un navigateur et/ou par une application mobile.
 
 L’accès à la blockchain pédagogique Acadee-Formation se fait par une URL qui est remise aux auditeurs de la formation DeFi par Acadee-Formation.
