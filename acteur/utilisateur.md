@@ -29,7 +29,7 @@ Lorsque l'on créé des utilsateurs \(et autres rôles\) avec un pseudo existant
 ## Liste et suppression d'utilisateur
 
 {% hint style="warning" %}
-La fonction n'est pas encore implémentée comme elle l'est pour les gestionnaires et les
+La fonction n'est pas encore implémentée comme elle l'est pour les gestionnaires et les administrateurs.
 {% endhint %}
 
 ### Invalider mon compte
