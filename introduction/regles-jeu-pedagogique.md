@@ -6,7 +6,7 @@ description: >-
 
 # Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus \(draft\)
 
-_**À septembre 2021, la règle du jeu reste à établir.**_
+Conservé_**À septembre 2021, la règle du jeu reste à établir.**_
 
 ## Principe général du jeu pédagogique
 
@@ -26,7 +26,7 @@ Un certain nombre de STC sera aussi attribuer aux joueurs pour faire des achats.
 
 À ce stade, je ne vois pas \(encore\) la notion de gagnant ou perdant. 
 
-Ce qui me paraît être le point-clé est que chaque joueur doit tenir tous les rôles : utilisateur, gestionnaire, administrateur, validateur \(?\). En commençant par un administrateur et un gestionnaire déjà expérimentés. Dans le parcours du jeu, des tâches seraient à exécuter comme : "Créer un gestionnaire" ou vérifier l'"Integrité des registres".
+Ce qui me paraît être le point-clé est que chaque joueur doit tenir tous les rôles : utilisateur, gestionnaire, administrateur, validateur \(?\). En commençant par un administrateur et un gestionnaire déjà expérimentés. Dans le parcours du jeu, des tâches seraient à exécuter comme : "Créer un gestionnaire" ou vérifier l'"Intégrité des registres".
 
 ## La dynamique du jeu
 
@@ -51,6 +51,8 @@ Nous vous invitons à respecter ces règles de nommages des utilisateurs : **vot
 * Pour l'administrateur : **a-xxx**, exemple pour le trigramme jre : a-jre
 
 > Si vous souhaitez ouvrir, en même temps, plusieurs comptes utilisateurs différents de la plateforme dans votre navigateur, nous vous conseillons d'utiliser le navigateur FireFox avec l'extension \`**Firefox Multi-Account Containers**\`. Il sera alors possible, avec un click long sur le \`**+**\`, d'ajouter un nouvel onglet "isolé"  pour ouvrir un autre compte utilisateur à l'intérieur.
+
+>
 
 ### Compte e-mail des joueurs
 

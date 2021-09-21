@@ -5,7 +5,7 @@ description: >-
   incontournables de la tokénisation et autres.
 ---
 
-# Principales actions dans le jeu
+# Principales actions dans le jeu \(Draft\)
 
 ## Actions liées à la tokénisation
 
