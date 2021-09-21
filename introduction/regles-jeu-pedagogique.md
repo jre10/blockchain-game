@@ -43,10 +43,14 @@ _À septembre 2021, le jeu est encore à son stade de **création** :\) Ceci est
 
 Nous vous invitons à respecter ces règles de nommages des utilisateurs : **votre trigramme précédé du type de compte séparé pas un tiret**.
 
+🏴 Le nom d'utilisateur, et bien sûr aussi le mot de passe, sont sensibles aux majuscules/minuscules.
+
 * Pour utilisateur : **u-xxx**, exemple pour le trigramme jrd \(José Relland\) : u-jre
 * Pour gestionnaire : **g-xxx**, exemple pour le trigramme jre : g-jre
 * Pour le validateur : **v-xxx**, exemple pour le trigramme jre : v-jre
 * Pour l'administrateur : **a-xxx**, exemple pour le trigramme jre : a-jre
+
+> Si vous souhaitez ouvrir, en même temps, plusieurs comptes utilisateurs différents de la plateforme dans votre navigateur, nous vous conseillons d'utiliser le navigateur FireFox avec l'extension \`**Firefox Multi-Account Containers**\`. Il sera alors possible, avec un click long sur le \`**+**\`, d'ajouter un nouvel onglet "isolé"  pour ouvrir un autre compte utilisateur à l'intérieur.
 
 ### Compte e-mail des joueurs
 

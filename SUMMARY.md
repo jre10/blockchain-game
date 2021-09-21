@@ -8,6 +8,7 @@
 * [Généralités sur la blockchain et les tokens non-fongibles](introduction/generalites-sur-la-blockchain-et-les-token-non-fongibles.md)
 * [La blockchain pédagogique de Acadee-Formation](introduction/blockchain-pedagogique-de-acadee-formation.md)
 * [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus \(draft\)](introduction/regles-jeu-pedagogique.md)
+* [Principales actions dans le jeu](introduction/actions-jeu.md)
 
 ## Les acteurs de la Blockchain <a id="acteur"></a>
 
