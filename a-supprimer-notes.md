@@ -4,11 +4,12 @@ description: Des notes et brouillons temporaires
 
 # À supprimer - Notes
 
-## âches
+## Tâches
 
 * [ ] Point sur les versions
-* [ ] Règles du jeu à améliorer
-* [ ] Vocabulaire et sigles
+* [ ] Terminer Outils de la Blockchain
+* [x] Règles du jeu Finaliser une proposition 
+* [ ] Terminer Vocabulaire et sigles
 * [ ] Revoir les rôles pour faire les transferts
 
 ## Nouvelle plateforme
