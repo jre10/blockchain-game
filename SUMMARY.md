@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Avant-propos et remerciements](README.md)
-* [Mise à jour v03.08.2021](mise-a-jour-v03.08.2021.md)
+* [Mise à jour version 0.1](mise-a-jour-version-0.1.md)
 
 ## Introduction
 
