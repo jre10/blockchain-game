@@ -29,7 +29,7 @@ Lorsque l'on créé des utilsateurs \(et autres rôles\) avec un pseudo existant
 ## Liste et suppression d'utilisateur
 
 {% hint style="warning" %}
-La fonction n'est pas encore implémentée comme elle l'est pour les gestionnaires et les administrateurs.
+La fonction n'est pas encore implémentée comme elle l'est pour les gestionnaires et les
 {% endhint %}
 
 ### Invalider mon compte
@@ -42,5 +42,5 @@ Entrer les identifiants dans l'écran proposé
 
 Confirmer l'invalidation en entrant "INVALIDER" dans le champ texte.
 
-![Confirmer l&apos;invalidation du compte.](../.gitbook/assets/v19-invalider-compte-confirmer%20%281%29%20%282%29%20%283%29%20%283%29%20%282%29.png)
+![Confirmer l&apos;invalidation du compte.](../.gitbook/assets/v19-invalider-compte-confirmer%20%281%29%20%282%29%20%283%29%20%282%29.png)
 

@@ -14,7 +14,7 @@ Votre identifiant et votre clé unique vous donne le statut sur une plateforme. 
 
 Pour se connecter, rendez-vous à l'url de la plateforme qui vous a été communiqué. Cette url est de la forme : `http://vps-05xxxx9e.vps.ovh.net/ConnexionAdmin`
 
-![&#xC9;cran d&apos;accueil de connexion. L&apos;identifiant entr&#xE9; donnera le r&#xF4;le \(administrateur, utilisateur, autres\)](../.gitbook/assets/screenshot-2021-07-31-at-13-37-00-acadee%20%283%29%20%284%29%20%284%29.png)
+![&#xC9;cran d&apos;accueil de connexion. L&apos;identifiant entr&#xE9; donnera le r&#xF4;le \(administrateur, utilisateur, autres\)](../.gitbook/assets/screenshot-2021-07-31-at-13-37-00-acadee%20%283%29%20%284%29.png)
 
 Entrer votre identifiant et la "Clé unique" qui vous ont été communiqués.
 
@@ -22,7 +22,7 @@ Entrer votre identifiant et la "Clé unique" qui vous ont été communiqués.
 Une `Clé unique` n'est pas un mot de passe que l'on peut redemander en ligne \(Voir les Généralités\). Si vous avez perdu votre `clé unique`, contacter l'administrateur de la plateforme concernée.
 {% endhint %}
 
-![Page d&apos;accueil de l&apos;administrateur. Acc&#xE8;s au sous-medu d&apos;administration par le menu de gauche](../.gitbook/assets/v19-accueil-admin%20%282%29%20%283%29%20%284%29%20%284%29%20%282%29.png)
+![Page d&apos;accueil de l&apos;administrateur. Acc&#xE8;s au sous-medu d&apos;administration par le menu de gauche](../.gitbook/assets/v19-accueil-admin%20%282%29%20%283%29%20%284%29%20%282%29.png)
 
 {% hint style="success" %}
 À noter que dans le bandeau supérieur, il apparaît : Le logo de Acadee-Formation, l'identifiant de la personne connectée et la nom de la blockchain.

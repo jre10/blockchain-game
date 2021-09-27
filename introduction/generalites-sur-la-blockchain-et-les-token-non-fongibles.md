@@ -6,7 +6,7 @@ description: Des points-clés à connaître pour bien apprécier l'application e
 
 Ce rappel de ces points-clés sur la blockchain ne constitue pas un apport théorique sur la blockchain. Pour une présentation de la blockchain sous l'angle de la DeFi \(Finance Décentralisée\), nous vous recommandons la formation en ligne de ACADEE. Lien : [`Contenu, budget et prise en compte du compte formation, cliquer ici`](https://www.acadee-formation.com/nos-formations/formation-la-finance-decentralisee-defi-ethique/)
 
-> Ce rappel des points constitue le minimum de connaissance à disposer pour bien appréhender l'application et le jeu proposé dans ce document.
+> Ce rappel des points-continue le minimum de connaissance à disposer pour bien appréhender l'application et le jeu proposé dans ce document.
 
 ## Quatre points-clés à retenir sur la blockchain <a id="bkmrk-quatre-points-cl%C3%A9s-%C3%A0"></a>
 
@@ -14,8 +14,6 @@ Ce rappel de ces points-clés sur la blockchain ne constitue pas un apport théo
 2. Les quatre usages de la blockchain et les trois retenus par le framework de la société Spuro
 3. L'`authentification` d'un document versus la `sauvegarde` d'un document
 4. Le `stockage` des documents
-
-Ces quatre points sont détaillés ci-après.
 
 ### 1. L'identification par `clés uniques` versus le `mot de passe` <a id="bkmrk-2.-les-cl%C3%A9s-uniques-"></a>
 

@@ -22,8 +22,6 @@ Le gestionnaire reste sous la dépendance de l'administrateur.
 
 Le gestionnaire est créé par l'administrateur. Pour plus de détails, voir le chapitre Détails des commandes du sous-menu Administration.
 
-
-
 Le processus côté gestionnaire comme avec l’e-mail suivant :
 
 > **Bonjour,**

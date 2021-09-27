@@ -7,27 +7,22 @@
 
 * [Généralités sur la blockchain et les tokens non-fongibles](introduction/generalites-sur-la-blockchain-et-les-token-non-fongibles.md)
 * [La blockchain pédagogique de Acadee-Formation](introduction/blockchain-pedagogique-de-acadee-formation.md)
-* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus \(draft\)](introduction/regles-jeu-pedagogique.md)
-* [Principales actions dans le jeu \(Draft\)](introduction/actions-jeu.md)
 
 ## Les acteurs de la Blockchain <a id="acteur"></a>
 
-* [Généralités sur les acteurs de la blockchain](acteur/generalites-sur-les-acteurs-de-la-blockchain.md)
 * [Les gestionnaires](acteur/gestionnaire.md)
 * [Les validateurs](acteur/validateur.md)
 * [Les utilisateurs](acteur/utilisateur.md)
 
 ## Outils de la blockchain <a id="outil"></a>
 
----
-
-* [Fonctionnalités \(À faire\)](fonctions-transversales/README.md)
-  * [Gestion de la preuve](fonctions-transversales/gestion-de-la-preuve.md)
-* [Smart Contracts](smart-contracts.md)
-* [Tokens](tokens.md)
-* [Applications](application/README.md)
-  * [Vote \(À faire\)](application/vote.md)
-  * [Ekoco \(À faire\)](application/ekoco.md)
+* [Fonctionnalités](outil/fonctions-transversales/README.md)
+  * [Gestion de la preuve](outil/fonctions-transversales/gestion-de-la-preuve.md)
+* [Smart Contracts](outil/smart-contracts.md)
+* [Tokens](outil/tokens.md)
+* [Applications](outil/application/README.md)
+  * [Vote](outil/application/vote.md)
+  * [Ekoco](outil/application/ekoco.md)
 
 ## Administration et Sécurité de la blockchain <a id="admin-securite"></a>
 
@@ -35,9 +30,14 @@
 * [Détails des commandes du sous-menu Administration](admin-securite/details-des-commandes-du-sous-menu-administration.md)
 * [Sécurité de la plateforme](admin-securite/securite-plateforme.md)
 
+## Le Jeu de la Blockchain Pédagogique Acadee-Formation <a id="jeu-acadee-formation"></a>
+
+* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus](jeu-acadee-formation/regles-jeu-pedagogique.md)
+
 ## Annexes
 
-* [Annexes](annexes/annexes.md)
+* [Vocabulaire et sigles](annexes/vocabulaire-sigle.md)
+* [Fiche de synthèse](annexes/synthese.md)
 
 ---
 
