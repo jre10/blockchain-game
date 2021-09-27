@@ -6,7 +6,7 @@ description: >-
 
 # Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus \(draft\)
 
-Conservé_**À septembre 2021, la règle du jeu reste à établir.**_
+_**À septembre 2021, la règle du jeu reste à établir.**_
 
 ## Principe général du jeu pédagogique
 
