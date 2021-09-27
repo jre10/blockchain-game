@@ -1,9 +1,11 @@
 ---
-description: Informations sur la mise à jour de la version 19.07.2021 vers la 03.08.2021
+description: Initialisation de cette version le 27 septembre 2021.
 ---
 
-# Mise à jour v03.08.2021
+# Version 0.1
 
-* La mise à jour et mineure et impacte peu l'interface graphique.
-* Les écrans de la présente version peuvent être des écrans de la version précédente \(voir en bas à gauche\), lorsqu'ils sont identiques.
+* Il s'agit de la première version de la blockchain pédagogique
+* Par rapport aux drafts déjà présentés, cette première version est recentrée sur les deux aspects suivants :
+  * Les règles de l'animation du jeu
+  * Les manipulations des tâches à résoudre et non plus le manuel d'utilisation de la plateforme.
 

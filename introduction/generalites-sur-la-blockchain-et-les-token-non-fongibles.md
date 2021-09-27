@@ -1,12 +1,15 @@
 ---
-description: Des points-clés à connaître pour bien apprécier l'application et le jeu.
+description: >-
+  Rappels des points-clés à connaître pour bien apprécier l'application et le
+  jeu. Ces points-clés ont été présentés dans la formation DeFi
+  d'Acadee-Formation.
 ---
 
 # Généralités sur la blockchain et les tokens non-fongibles
 
-Ce rappel de ces points-clés sur la blockchain ne constitue pas un apport théorique sur la blockchain. Pour une présentation de la blockchain sous l'angle de la DeFi \(Finance Décentralisée\), nous vous recommandons la formation en ligne de ACADEE. Lien : [`Contenu, budget et prise en compte du compte formation, cliquer ici`](https://www.acadee-formation.com/nos-formations/formation-la-finance-decentralisee-defi-ethique/)
-
-> Ce rappel des points constitue le minimum de connaissance à disposer pour bien appréhender l'application et le jeu proposé dans ce document.
+> Ce rappel des points constitue le minimum de connaissances à disposer pour bien appréhender l'application et le jeu proposé dans ce document.
+>
+> Pour plus d'information sur la formation DeFi : [cliquer ici](https://www.acadee-formation.com/nos-formations/formation-la-finance-decentralisee-defi-ethique/).
 
 ## Quatre points-clés à retenir sur la blockchain <a id="bkmrk-quatre-points-cl%C3%A9s-%C3%A0"></a>
 
