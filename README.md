@@ -5,14 +5,12 @@ description: >-
 ---
 
 # Avant-propos et remerciements
-{{% hint style="danger" %}} Version 0.1 en cours d'écriture {{% endhint %}}  
-
 
 ### Avant-propos
 
 Ce jeu, sur `plateau et sur mobile`, a pour but d'expérimenter des usages de la blockchain. La "tokénisation" d'une bouteille de **Bordeaux Petrus 1945** sert de fil conducteur. Orienté jeu de rôle, l'animation reproduit des situations réelles de la vie réelle et dont le traitement sera implémenté et solutionné par la blockchain.
 
-Les participants tiendront, par rotation, différents rôles. Ces rôles seront : le **gestionnaire** de la blockchain, l'**utilisateur** et le **validateur**. Ces trois rôles permettront d'illustrer des rôles de la vie réel comme, lors de la tokénisation d'un bien, les rôles d'acheteurs, de vendeurs, de spéculateurs. 
+Les participants tiendront, par rotation, différents rôles. Ces rôles seront : le **gestionnaire** de la blockchain, l'**utilisateur** et le **validateur**. Ces trois rôles permettront d'illustrer des rôles de la vie réel comme, lors de la tokénisation d'un bien, les rôles d'acheteurs, de vendeurs, de spéculateurs.
 
 Note : Le rôle d'administrateur n'a pas été intégré dans le jeu mais il sera présenté dans la documentation. Ce rôle est réservé aux techniciens de la blockchain.
 
@@ -29,4 +27,3 @@ Nous remercions **Samuel Dumas** de Acadee-formation.
 ## Licence
 
 Se renseigner auprès de l'auteur.
-
