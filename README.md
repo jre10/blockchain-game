@@ -6,10 +6,7 @@ description: >-
 
 # Avant-propos et remerciements
 
-{{% hint style="danger" %}}
-Version 0.1 en cours d'écriture
-{{% endhint %}}
- 
+
 
 ### Avant-propos
 
