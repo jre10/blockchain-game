@@ -5,11 +5,11 @@ description: >-
 ---
 
 # Avant-propos et remerciements
-<!--- Flag 
-{% hint style="danger" %}
+
+{{% hint style="danger" %}}
 Version 0.1 en cours d'écriture
-{% endhint %}
-            --->
+{{% endhint %}}
+ 
 
 ### Avant-propos
 
