@@ -11,14 +11,16 @@
 
 ## Le jeu de la tokénisation d'une bouteille de Pétrus <a href="jeu-tokenisation-bouteille-petrus" id="jeu-tokenisation-bouteille-petrus"></a>
 
-* [Principales actions dans le jeu (Draft)](jeu-tokenisation-bouteille-petrus/actions-jeu.md)
+* [Déroulement de la tokénisation d'une bouteille de Pétrus](jeu-tokenisation-bouteille-petrus/actions-jeu.md)
 
-## Les acteurs de la Blockchain <a href="acteur" id="acteur"></a>
+## Conclusion et suite à donner <a href="conclusion-suite-a-donner" id="conclusion-suite-a-donner"></a>
 
-* [Généralités sur les acteurs de la blockchain](acteur/generalites-sur-les-acteurs-de-la-blockchain.md)
-* [Les gestionnaires](acteur/gestionnaire.md)
-* [Les validateurs](acteur/validateur.md)
-* [Les utilisateurs](acteur/utilisateur.md)
+* [Page 1](conclusion-suite-a-donner/page-1.md)
+
+## Annexes
+
+* [Annexes](annexes/annexes.md)
+* [Historique des versions](annexes/historique-des-versions.md)
 
 ## Outils de la blockchain <a href="outil" id="outil"></a>
 
@@ -30,15 +32,18 @@
   * [Vote (À faire)](application/vote.md)
   * [Ekoco (À faire)](application/ekoco.md)
 
+## Les acteurs de la Blockchain <a href="acteur" id="acteur"></a>
+
+* [Généralités sur les acteurs de la blockchain](acteur/generalites-sur-les-acteurs-de-la-blockchain.md)
+* [Les gestionnaires](acteur/gestionnaire.md)
+* [Les validateurs](acteur/validateur.md)
+* [Les utilisateurs](acteur/utilisateur.md)
+
 ## Administration et Sécurité de la blockchain <a href="admin-securite" id="admin-securite"></a>
 
 * [Administration de la plateforme](admin-securite/admin-plateforme.md)
 * [Détails des commandes du sous-menu Administration](admin-securite/details-des-commandes-du-sous-menu-administration.md)
 * [Sécurité de la plateforme](admin-securite/securite-plateforme.md)
-
-## Annexes
-
-* [Annexes](annexes/annexes.md)
 
 ***
 
