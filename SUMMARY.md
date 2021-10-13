@@ -8,8 +8,10 @@
 
 * [Rappels de points-clés pour une bonne pratique](introduction/generalites-sur-la-blockchain-et-les-token-non-fongibles.md)
 * [Connexion à la plateforme Acadee-Formation](introduction/blockchain-pedagogique-de-acadee-formation.md)
-* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus (draft)](introduction/regles-jeu-pedagogique.md)
-* [Principales actions dans le jeu (Draft)](introduction/actions-jeu.md)
+
+## Le jeu de la tokénisation d'une bouteille de Pétrus <a href="jeu-tokenisation-bouteille-petrus" id="jeu-tokenisation-bouteille-petrus"></a>
+
+* [Principales actions dans le jeu (Draft)](jeu-tokenisation-bouteille-petrus/actions-jeu.md)
 
 ## Les acteurs de la Blockchain <a href="acteur" id="acteur"></a>
 
