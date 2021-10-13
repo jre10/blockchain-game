@@ -5,7 +5,7 @@ description: >-
   d'Acadee-Formation.
 ---
 
-# Rappels sur la blockchain et les tokens non-fongibles
+# Rappels de points-clés pour une bonne pratique
 
 > Ce rappel des points constitue le minimum de connaissances à disposer pour bien appréhender l'application et le jeu proposé dans ce document.
 >
@@ -40,20 +40,28 @@ Il est recommandé d'utiliser un `manager de mots de passe et/ou de clés numér
 
 Il est possible aussi d'utiliser des `wallets`, des porte-monnaies numériques généralement sous la forme d'une clé USB.
 
-### 2. Usages de la blockchain et ceux proposés par la plateforme Spuro <a href="bkmrk-1.-usages-de-la-bloc" id="bkmrk-1.-usages-de-la-bloc"></a>
+### 2. Usages de la blockchain ciblés ici <a href="bkmrk-1.-usages-de-la-bloc" id="bkmrk-1.-usages-de-la-bloc"></a>
 
-Dans la pratique, la blockchain propose 4 types d'usage.
 
-* Ledger : Authentification de documents
-* SmartContracts : Contrats intelligents
-* Token : Titulaire d'un actif numérique représentant un partie d'un bien réel.
-* Crypto :\_monnaie
 
-Dessin Spuro
+Rappel Dessin Spuro sur les usages de blockahin
+
+
+
+Comme vu précédemment, la blockchain propose 4 types d'usage. Le tableau détaille les applications retenues
+
+|   Usage Blockchain   | Présent plateforme | Présent dans le Jeu |
+| :------------------: | :----------------: | :-----------------: |
+|         Token        |         Oui        |         Oui         |
+| Gestion de la preuve |         Oui        |  Non (version 0.1)  |
+|    Smart Contracts   |         oui        |  Non (Version 0.1)  |
+|     Cryptomonnaie    |   Non (pas prévu)  |   Non (pas prévu)   |
+
+
 
 En dehors des applications pour la crypto-monnaie (Bitcoin, autres) qui nécessitent des ressources et une gouvernance particulière, les **trois autres usages sont accessibles par les plateformes Spuro** dont fait partie la blockchain Acadee-Formation.
 
-Pour plus d'information, visiter le site : [http://spuro.eu/](http://spuro.eu)
+
 
 ### 3. L'authentification d'un document et la sauvegarde de ce document <a href="bkmrk-3.-l-27authentificatio" id="bkmrk-3.-l-27authentificatio"></a>
 
@@ -74,3 +82,22 @@ Toutefois, les plateformes de la blockchain comme celle de Spuro propose aussi u
 * Cela n'existe plus avec la v19
 * en `interne`, c'est à dire sur la plateforme elle-même,
 * en `externe`, sur un serveur externe, généralement celui de l'utilisateur.
+
+## Les nodes de la blockchain <a href="bkmrk-les-nodes" id="bkmrk-les-nodes"></a>
+
+Une blockchain disposent normalement de beaucoup de nodes. Ces nodes sont comme des "serveurs" qui sont fédérés et qui permettent l'accès à la blockchain par différentes structures.
+
+Pour l'application pratique et pour le jeu, un seul node est suffisant. C'est ce qui a été retenu par Acadee Formation.
+
+La navigation sur le ou les nodes est visibles uniquement avec le compte administrateur.
+
+
+
+## Les différents rôles sur la plateforme
+
+En pratique, sur une plateforme blockchain, il existe 3 niveaux d'utilisateurs : 
+
+1. L'administrateur, qui gère le site techniquement et qui déclare les gestionnaires
+2. Les gestionnaires, qui a pour mission de gérer les utilisateurs sans en connaître les caractéristiques et droits d'accès. Il est le représentant de l'entreprise ou de la communauté des utilisateurs.
+3. Les utilisateurs, qui peuvent aussi  avoir le rôle de navigateur. L'utilisateur est donc le "client final", celui qui va ouvrir un compte sur la blockchain qui y pratiquer un usage. Ici, il est important de noter que la clé unique ou la clé de récupération ne doivent pas être perdue. 
+
