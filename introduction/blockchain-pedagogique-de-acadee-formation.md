@@ -47,11 +47,15 @@ Les chapitres suivants détaillent les navigations sur la plateforme. Le présen
 
 ### Page d'accueil <a href="bkmrk-page-d-27accueil" id="bkmrk-page-d-27accueil"></a>
 
-Remarque : la version de la plateforme, continuellement améliorée, se trouve tout en bas du menu de gauche. Bien repérer cette référence en cas d'échanges. C'est une référence comme : `v19-07-2021`
+Remarque : la version au 12/10/2021. 
+
+![Noter le menu de gauche. Dans l'en-tête, les nom du connecté et du nom du node. En bas à droite, la version et Déconnexion](<../.gitbook/assets/image (3).png>)
+
+
 
 ### L'organisation de la plateforme <a href="bkmrk-l-27organisation-de-la" id="bkmrk-l-27organisation-de-la"></a>
 
-La blockchain Acadee-Formation dispose de plusieurs sections identifiable par les accès dans le menu de gauche :
+La plateforme Acadee-Formation dispose de plusieurs sections identifiable par les accès dans le menu de gauche :
 
 1. **La partie `Administration`**. Partie technique gérée par l'administrateur. Note : Pour les autres rôles, le sous-menu est visible mais les commandes ne sont pas utilisable. Si vous cliquez dessus, un message vous avertit que vous n'avez pas l'accès.
 2. **La partie `Sécurité`**. Accessible au gestionnaire, permet de vérifier l'intégrité des registres et codes sources.
@@ -59,14 +63,33 @@ La blockchain Acadee-Formation dispose de plusieurs sections identifiable par le
 4. **La partie `Fonctionnalités`**, pour des fonctions transversales à plusieurs utilisations comme
    1. Tracer mon document
    2. Invalider mon compte
-   3. Gestion de la preuve (authenticité de document et du propriétaire, un Ledgerofproof)
+   3. **Gestion de la preuve** (authenticité de document et du propriétaire, un Ledgerofproof)
 5. **La partie `Tokens`**, pour la tokénisation d'un bien et les échanges de ces tokens
-6. Et enfin la **partie `Applications`**. Exemples :
-   1. L'application **Suffrage**. Pour des votes.
+6. Et enfin la **partie `Applications`**. Présentes ou pas selon la configuration. Exemples :thumbsup:
+   1.  L'application **Suffrage**. Pour des votes.
    2. **Ekoco**, une application qui "protège la planète" et qui "récompensera de vos efforts en tokens ". [http://www.ekoco.fr](http://www.ekoco.fr)
 
 Ces applications sont créées et développées par la société Spuro ou des éditeurs indépendants.
 
-Pour disposer de ces applications, un budget peut être nécessaire selon le modèle économique de l'éditeur.
+_Rappel : dans la version 0.1, c'est en tant que gestionnaire que vous effectuerez le parcours._
 
-Pour plus d'information sur le fonctionnement de la plateforme, se référer à la documentation de l'éditeur Spuro. Voir aussi les chapitres ci-dessous dont OUTILS DE LA BLOCKCHAIN.
+
+
+Pour plus d'information sur le fonctionnement de la plateforme, se référer à la documentation de l'éditeur Spuro. 
+
+
+
+## Recommandation pour le nommage des différents comptes
+
+Nous vous invitons à respecter ces règles de nommages des utilisateurs : **votre trigramme précédé du type de compte séparé pas un tiret**.
+
+🏴 Le nom d'utilisateur, et bien sûr aussi le mot de passe, sont sensibles aux majuscules/minuscules.
+
+* Pour utilisateur : **u-xxx**, exemple pour le trigramme jre (**J**osé **Re**lland) : u-jre
+* Pour gestionnaire : **g-xxx**, exemple pour le trigramme jre : g-jre
+* Pour le validateur : **v-xxx**, exemple pour le trigramme jre : v-jre
+* Pour l'administrateur : **a-xxx**, exemple pour le trigramme jre : a-jre
+
+Dans la version 0.1, un même courriel pourra être utilisé. 
+
+Une nouvelle fois, nous vous recommandons de bien conserver votre **clé unique** et la** clé de sauvegarde**. Vous recevez cette dernière par courriel.
