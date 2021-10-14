@@ -68,15 +68,19 @@ Conserver bien cette empreinte. Il est recommandé d'utiliser un portefeuille de
 
 
 
-### 3. Mes tokens
+### 3. Mon solde de STCs avec Mes tokens
 
-Avec le profil de gestionnaire ou d'utilisateur, il est nécessaire de connaître votre solde de tokens. À ce stade. le solde est à 0.
+Avec le profil de gestionnaire ou d'utilisateur, il est nécessaire de connaître votre solde de tokens. Au début du jeu, le solde est à 0.
 
 Pour vérifier le solde des tokens de son profil : menu Tokens > Mes Tokens.
 
-Entrer à nouveau vos identifiants. Le solde apparaît dans l'écran.
+Entrer à nouveau vos identifiants. Le solde à 0 apparaît dans l'écran. Si vous avez déjà chargé votre compte, un solde différent apparaîtra. 
 
 ![Écran indiquant le solde des tokens de votre profil. Les colonnes Types et Statut seront vues plus loin.](<../.gitbook/assets/image (6).png>)
+
+{% hint style="warning" %}
+Ce solde est toujours positif ou nul, il ne peut pas être négatif. Une opération de retrait de STCs supérieure au nombre des STCs possédés n'est pas possible.
+{% endhint %}
 
 ### 4. Acheter des STCs
 
@@ -130,7 +134,7 @@ Acheter des STC avec et sans refus du vendeur
 
 ### Transférer des STCs
 
-### Transfert en attente
+#### Transfert en attente
 
 ### Acheter des STCs sans en disposer suffisamment
 
