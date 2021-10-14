@@ -49,7 +49,7 @@ Les chapitres suivants détaillent les navigations sur la plateforme. Le présen
 
 Remarque : la version au 12/10/2021. 
 
-![Noter le menu de gauche. Dans l'en-tête, les nom du connecté et du nom du node. En bas à droite, la version et Déconnexion](<../.gitbook/assets/image (3).png>)
+![Noter le menu de gauche. Dans l'en-tête, les nom du connecté et du nom du node. En bas à droite, la version et Déconnexion](<../.gitbook/assets/image (3) (1).png>)
 
 
 
@@ -79,7 +79,7 @@ Pour plus d'information sur le fonctionnement de la plateforme, se référer à 
 
 
 
-## Recommandation pour le nommage des différents comptes
+## Recommandation pour le nommage des différents comptes <a href="nommage_compte" id="nommage_compte"></a>
 
 Nous vous invitons à respecter ces règles de nommages des utilisateurs : **votre trigramme précédé du type de compte séparé pas un tiret**.
 
