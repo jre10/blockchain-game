@@ -1,8 +1,8 @@
 ---
 description: >-
-  Rappels des points-clés à connaître pour bien apprécier l'application et le
-  jeu. Ces points-clés ont été introduits dans la formation DeFi
-  d'Acadee-Formation.
+  Version Communauté du jeu. Rappels des points-clés à connaître pour bien
+  apprécier l'application et le jeu. Ces points-clés ont été introduits dans la
+  formation DeFi d'Acadee-Formation.
 ---
 
 # Rappels de points-clés pour une bonne pratique

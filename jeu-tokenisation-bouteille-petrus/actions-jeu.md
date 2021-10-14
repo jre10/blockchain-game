@@ -1,8 +1,8 @@
 ---
 description: >-
-  Nous vous invitons à suivre méthodiquement les actions ci-dessous. Comme
-  évoqué, au regard de l'évolution permanente de la plateforme Acadee-Formation,
-  les actions seront définis par les menus, sans c
+  Version Communauté du jeu. Nous vous invitons à suivre méthodiquement les
+  actions ci-dessous. Comme évoqué, au regard de l'évolution permanente de la
+  plateforme Acadee-Formation, les actions seront dé
 ---
 
 # Déroulement de la tokénisation d'une bouteille de Pétrus
