@@ -15,7 +15,7 @@
 
 ## Conclusion et suite à donner <a href="conclusion-suite-a-donner" id="conclusion-suite-a-donner"></a>
 
-* [Page 1](conclusion-suite-a-donner/page-1.md)
+* [Conclusion et suite à donner](conclusion-suite-a-donner/conclusion-et-suite-a-donner.md)
 
 ## Annexes
 
@@ -24,8 +24,6 @@
 
 ## Outils de la blockchain <a href="outil" id="outil"></a>
 
-* [Fonctionnalités (À faire)](fonctions-transversales/README.md)
-  * [Gestion de la preuve](fonctions-transversales/gestion-de-la-preuve.md)
 * [Smart Contracts](smart-contracts.md)
 * [Tokens](tokens.md)
 * [Applications](application/README.md)
