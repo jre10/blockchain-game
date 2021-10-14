@@ -20,6 +20,7 @@
 ## Annexes
 
 * [Annexes](annexes/annexes.md)
+* [Décoder un bloc du registre](annexes/decoder-bloc-registre.md)
 * [Historique des versions](annexes/historique-des-versions.md)
 
 ## Outils de la blockchain <a href="outil" id="outil"></a>

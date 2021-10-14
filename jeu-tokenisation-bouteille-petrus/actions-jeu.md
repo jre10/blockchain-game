@@ -36,7 +36,7 @@ Ce courriel est très important car il contient le `code de récupération` et d
 
 L'écran apparaît de la manière suivante. À noter que sur la gauche, le sous-menu Tokens apparaît complètement. C'est dans cet menu que nous 'allons jouer'.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 
 {% endtab %}
@@ -123,6 +123,13 @@ Détails du transfert
 
 Soit un versement initial de 3 100 €/STCs.
 {% endhint %}
+
+
+
+> Mon fichier
+>
+> * Le hash : c389f545c13979d5b1f195f52a874bbaf0fe312a2bdb5d7f417ce82cbdecca1e
+> * Fichier tricassinux.org\_300x300.png
 
 
 
