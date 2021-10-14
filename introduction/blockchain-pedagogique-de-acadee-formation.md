@@ -49,7 +49,7 @@ Les chapitres suivants détaillent les navigations sur la plateforme. Le présen
 
 Remarque : la version au 12/10/2021. 
 
-![Noter le menu de gauche. Dans l'en-tête, les nom du connecté et du nom du node. En bas à droite, la version et Déconnexion](<../.gitbook/assets/image (3) (1).png>)
+![Noter le menu de gauche. Dans l'en-tête, les nom du connecté et du nom du node. En bas à droite, la version et Déconnexion](<../.gitbook/assets/image (3) (1) (1).png>)
 
 
 
