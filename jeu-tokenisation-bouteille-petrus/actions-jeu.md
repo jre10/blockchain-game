@@ -76,7 +76,7 @@ Pour vérifier le solde des tokens de son profil : menu Tokens > Mes Tokens.
 
 Entrer à nouveau vos identifiants. Le solde à 0 apparaît dans l'écran. Si vous avez déjà chargé votre compte, un solde différent apparaîtra. 
 
-![Écran indiquant le solde des tokens de votre profil. Les colonnes Types et Statut seront vues plus loin.](<../.gitbook/assets/image (6).png>)
+![Écran indiquant le solde des tokens de votre profil. Les colonnes Types et Statut seront vues plus loin.](<../.gitbook/assets/image (6) (1).png>)
 
 {% hint style="warning" %}
 Ce solde est toujours positif ou nul, il ne peut pas être négatif. Une opération de retrait de STCs supérieure au nombre des STCs possédés n'est pas possible.
@@ -96,20 +96,43 @@ Pour acheter des STCs, aller dans le menu Tokens > Acheter des STCs. Remplir les
 
 Retourner dans Mes Tokens pour vérifier votre nouveau solde.
 
-![Mon solde de STCs soit 5 000 Stcs. ](<../.gitbook/assets/image (7).png>)
+![Mon solde de STCs soit 5 000 Stcs. ](<../.gitbook/assets/image (7) (1).png>)
 
 
 
 ### 5. Transférer des STCs
 
-Il s'agit d'acheter un bien, ici une fraction d'une bouteille de Pétrus 1945, qui sera payer en STCs.
+Le transfert de STCs a comme principal objectif l'achat d'un produit réel ou fictif. Dans le cas de notre jeu, dans cette version en cours, il s'agit d'acheter des tokens d'une fraction d'une bouteille de Pétrus 1945. Il est possible d'imaginer des transferts de STCs, des tokens, pour d'autres sujets.
+
+Afin de bien matérialisé le thème de ce transfert, nous vous proposons ce type de fichier.
+
+Le transfert de STCs se fait de deux manière : 
+
+* De manière directe, il suffit de cliquer sur le montant des STCs
+* Accompagné d'un fichier à vérifier : Vérifier le hash de mon fichier
+
+{% tabs %}
+{% tab title="Transférer des STCs de manière directe" %}
+
+{% endtab %}
+
+{% tab title="Transférer des STCs avec documents joints" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+{% file src="../.gitbook/assets/Tokenisation-Petrus-Transfert_Light.png" %}
+
+ 
 
 Des STCs de notre compte (de notre profil) seront transférer vers le vendeur. Des frais de réalisation du contrat de tokénisation et des frais annuels de 'gardiennage' de la bouteille seront aussi à prendre en compte.
 
 {% hint style="info" %}
 Si vous êtes le seul joueur de la partie, il est nécessaire de créer le compte d'un joueur supplémentaire pour faire les transactions. Ce compte pourrait avoir pour identifiant : \`Gérant\`. Le mot de passe et le courriel pourrait être le même que le profil en cours.
 
-Il est recommandé d'ouvrir deux naviguateurs différents pour bien isoler les deux comptes qui vont pointer sur la même url. Avec Firefox, l'extension 'Firefox Multi-Account Containers' permet d'isoler les comptes des différents onglets dans un même navigateur.. 
+Il est recommandé d'ouvrir deux navigateurs différents pour bien isoler les deux comptes qui vont pointer sur la même url. Avec Firefox, l'extension 'Firefox Multi-Account Containers' permet d'isoler les comptes des différents onglets dans un même navigateur.. 
 {% endhint %}
 
 Avec un autre joueur, ou avec un second compte 'Gérant', transférer 
@@ -124,12 +147,23 @@ Détails du transfert
 Soit un versement initial de 3 100 €/STCs.
 {% endhint %}
 
+Pour réaliser le transfert de STCs à partir de votre profil, aller dans Tokens > Transférer des tokents. Entrer les identifiants de votre compte. Dans Vérifier le hash de votre document (voir le chevron à droite pour découvrir la zone "Déposer votre fichier ici."), glisser votre fichier dans la zone colorée.
+
+La zone devient verte, les informations du fichier apparaissent.
+
+![Les informations liées au fichier pour initier le transfert des STCs. Conserver ces informations.](<../.gitbook/assets/image (9).png>)
 
 
-> Mon fichier
->
-> * Le hash : c389f545c13979d5b1f195f52a874bbaf0fe312a2bdb5d7f417ce82cbdecca1e
-> * Fichier tricassinux.org\_300x300.png
+
+Pour transférer les tokens, cliquer sur votre solde de token. 
+
+Dans le nouveau écran, indiquer l'Empreinte du récepteur, c'est dire celle du destinataire du prêt. Pour mémoire, l'empreinte d'un compte est dans : Tokens > Mon empreinte.
+
+![L'empreinte du destinataire et le montant de STCs à transférer.](<../.gitbook/assets/image (6).png>)
+
+L'expéditeur et le destinataire peuvent vérifier les mouvements de STCs de leur compte respectif en allant sur : Tokens > Mes tokens.
+
+
 
 
 
