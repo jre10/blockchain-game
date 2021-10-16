@@ -1,5 +1,5 @@
 ---
-description: Présentation générale du parcours du jeu.
+description: Présentation générale du parcours du jeu. Version Communauté du jeu.
 ---
 
 # Sommaire

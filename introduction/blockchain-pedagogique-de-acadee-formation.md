@@ -1,8 +1,7 @@
 ---
 description: >-
   Présentation générale de la plateforme blockchain de Acadee-Formation ainsi
-  que des recommandation pour le nom des comptes. Les écrans présenté dans cette
-  version 0.1 sont ceux de version de la platef
+  que des recommandation pour le nom des comptes. Version Communauté du jeu.
 ---
 
 # Connexion à la plateforme Acadee-Formation

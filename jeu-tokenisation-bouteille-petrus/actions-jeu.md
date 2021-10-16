@@ -1,8 +1,8 @@
 ---
 description: >-
-  Version Communauté du jeu. Nous vous invitons à suivre méthodiquement les
-  actions ci-dessous. Comme évoqué, au regard de l'évolution permanente de la
-  plateforme, des écrans peuvent être différents.
+  Nous vous invitons à suivre méthodiquement les actions ci-dessous. Comme
+  évoqué, au regard de l'évolution permanente de la plateforme, des écrans
+  peuvent être différents. Version Communauté du jeu.
 ---
 
 # Déroulement de la tokénisation d'une bouteille de Pétrus
