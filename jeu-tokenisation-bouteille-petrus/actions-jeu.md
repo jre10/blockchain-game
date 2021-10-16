@@ -24,7 +24,7 @@ Pour obtenir un profil de Gestionnaire, merci de contacter Samuel de Acadee-Form
 
 1. Vous recevrez par courriel un lien de création de compte Gestionnaire. Cliquer sur le lien `lien vers l'inscription` puis documenter les différents champs proposés.
 
-![Documenter les différents champs puis créer votre compte Gestionnaire (Voir les règles de nommage de l'identifiant)](<../.gitbook/assets/image (4) (1).png>)
+![Documenter les différents champs puis créer votre compte Gestionnaire (Voir les règles de nommage de l'identifiant)](<../.gitbook/assets/image (4) (1) (1).png>)
 
 Confirmer le ou les écrans de sécurité.
 
@@ -120,23 +120,41 @@ Note sur le jeu lui-même. Il pourrait être imaginé un développement du jeu s
 * ou, moins chanceux « La justice vous impose de payer vos dettes, vous devez vendre votre NTF Bouteille de Pétrus 1945 au plus offrant ! »
 {% endhint %}
 
->
->
 > Rappel. Il est **nécessaire de disposer préalablement des tokens pour toutes transactions**. La blockchain Acadee-Formation ne fait pas crédit.
 
 Sur la plateforme Acadee-Formation, le STC vaut un euro. Il est rappelé ici que l'achat est fictif est que la carte bancaire ne sera pas demandé.
 
-Pour acheter des STCs, aller dans le menu Tokens > Acheter des STCs. Remplir les différents champs.
+Pour obtenirs des STCs, avec le compte Gestionnaire ou le compte Administrateur, aller dans le menu Tokens > Acheter des STCs. Remplir les différents champs.
 
 ![](<../.gitbook/assets/image (3).png>)
 
-Retourner dans Mes Tokens pour vérifier votre nouveau solde.
+Retourner dans Mes Tokens pour vérifier votre nouveau solde. Il s'agit bien de tokens fongibles.
 
-![Mon solde de STCs soit 5 000 Stcs. ](<../.gitbook/assets/image (7) (1).png>)
+![Mon solde de STCs fongibles soit 5 000 Stcs. ](<../.gitbook/assets/image (7) (1).png>)
 
 
 
-### 5. Transférer des STCs
+### 5. Création des tokens non-fongibles
+
+Il s'agit ici d'une opération importante, la tokénisation de la bouteille de Pétrus 1945. 
+
+Dix documents ont été créés et sont à identifier dans la blockchain.
+
+Ci-dessous le processus pour un de ces documents avec GDP, Gestion De Preuve. Dans le menu : Fonctionnalités > Gestion de preuve > Démonstration GDP. 
+
+![Écran principal de Gestion de preuve](<../.gitbook/assets/image (4).png>)
+
+Pour enregistrer notre NFT Bouteille de Pétrus 1945, nous utiliserons, pour des raisons de simplifications, la procédure "Sans Validation". La procédure "Avec Validation" peut être utilisée mais nécessite une tierce personne, un validateur.
+
+{% hint style="success" %}
+Nous avons réalisé pour vous ces 10 documents. Téléchargeables ci-dessous. Il est tout à fait possible de rédiger vos propres documents et de les enregistrer dans la blockchain Acadde-Formation. Et ceci afin de réaliser votre propre tokénisation d'un de vos propre "sous-jacent" réel, un appartement, un terrain, une oeuvre d'art.
+{% endhint %}
+
+#### Création dans la blockchain Acadee-Formation des tokens de la bouteille de Pétrus 1945
+
+
+
+### x. Transférer des STCs
 
 Le transfert de STCs a comme principal objectif l'achat d'un produit réel ou fictif. Dans le cas de notre jeu, dans cette version en cours, il s'agit d'acheter des tokens d'une fraction d'une bouteille de Pétrus 1945. Il est possible d'imaginer des transferts de STCs, des tokens, pour d'autres sujets.
 
