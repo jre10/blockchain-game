@@ -9,12 +9,12 @@ description: >-
 
 ## 1. Création du rôle de gestionnaire
 
-> Dans la présente version 0.1, le joueur aura le profil de Gestionnaire. Dans la réalité, il a le rôle d'utilisateur. Le rôle de gestionnaire est normalement attribué uniquement aux animateurs de la communauté. La plateforme sera prochainement mise à jour pour utiliser le profil Utilisateur.
+> Dans la présente version 0.1, le joueur aura le profil de Gestionnaire. Dans la réalité, il a le rôle d'utilisateur. Le rôle de gestionnaire est normalement attribué uniquement aux animateurs de la blockchain : entreprises, communautés.
 
 Pour que le joueur obtienne un profil de Gestionnaire, il existe de cas : 
 
-1. Acadee-Formation déclare votre profil Gestionnaire. 
-2. Vous disposez déjà du profil d'administrateur, dans ce cas, il vous sera possible de créer un profil Gestionnaire. 
+1. **Acadee-Formation déclare votre profil Gestionnaire**. 
+2. Vous **disposez déjà du profil d'administrateur, dans ce cas, il vous sera possible de créer un profil Gestionnaire**. 
 
 Dans les deux cas, se renseigner auprès de Samuel d'Acadee-Formation.
 
@@ -56,21 +56,17 @@ L'écran vous propose d'indiquer votre courriel puis de lancer le processus.
 
 ### 2. Connaître mon empreinte
 
-Pour réaliser des transactions en STC, en fait en token, il est nécessaire de connaître son empreinte.
+Pour réaliser des transactions en STCs, en fait en tokens, il est nécessaire de connaître son empreinte de compte.
 
 Dans le le menu Tokens, cliquer sur Connaître mon empreinte. Entrer vos identifiants puis cliquer sur \`Générer mon empreinte\`.
 
-Celle-ci va apparaitre en bas de cette même fenêtre.
+Celle-ci va apparaître en bas de cette même fenêtre.
 
-Copier-coller cette empreinte, cette suite de chiffres et lettres. 
-
-Conserver bien cette empreinte. Il est recommandé d'utiliser un portefeuille de mots de passe comme BitWarden. L'empreinte peut être enregistré comme un 'champ personnalisé' supplémentaire.
-
-
+Vous pouvez sauvegarder cette empreinte, cette suite de chiffres et lettres, par un copier-coller. 
 
 ### 3. Mon solde de STCs avec Mes tokens
 
-Avec le profil de gestionnaire ou d'utilisateur, il est nécessaire de connaître votre solde de tokens. Au début du jeu, le solde est à 0.
+Préalablement à toutes transactions de tokens, il est nécessaire de connaître votre solde de tokens. Au début du jeu, ce solde est à 0.
 
 Pour vérifier le solde des tokens de son profil : menu Tokens > Mes Tokens.
 
@@ -82,11 +78,51 @@ Entrer à nouveau vos identifiants. Le solde à 0 apparaît dans l'écran. Si vo
 Ce solde est toujours positif ou nul, il ne peut pas être négatif. Une opération de retrait de STCs supérieure au nombre des STCs possédés n'est pas possible.
 {% endhint %}
 
-### 4. Acheter des STCs
+#### Mes tokens fongibles et mes tokens non-fongibles.
 
-Il est proposé de donner **à chaque participant 5 000 STCs**. Ce montant peu varier en fonction du nombre de joueurs ou du prix de l'élément qui est tokenisé.
+Ce point est important. Comme vu dans la formation DéFi de Benjamin Faraggi sur la plateforme Acadee-Formation, nous avons : 
 
-> Il est **nécessaire de disposer préalablement des tokens pour toutes transactions**. La blockchain Acadee-Formation ne fait pas crédit.
+1. Les tokens fongibles, 
+2. et les tokens non-fongibles, les NFTs. 
+
+Exemple d'un solde d'un compte avec tokens fongibles et tokens non-fongibles.
+
+![Solde des tokens d'un compte avec des tokens fongibles et des tokens non-fongibles (NFT)](<../.gitbook/assets/image (8).png>)
+
+**Les tokens fongibles** n'ont pas de "sous-jacents" uniques. Leur valeur est celle du marché. C'est donc une crypto-monnaie. Note : dans notre jeu, cela servira uniquement aux transactions, 1 token (ou STC) vaudra toujours 1 euro. Cette comparaison est fictive dans notre jeu.
+
+**Les tokens non-fongibles (NFT) **ont un sous-jacent. ces tokens s'appuient sur la valeur d'un objet réel, unique et identifié. Ceci est important à comprendre car c'est la base de la "tokénisation" du monde réel. Nous espérons que si vous n'avez pas acquis encore ce concept esposé par Benjamin Faraggi,, cela sera le cas à la fin de la pratique de ce jeu.
+
+{% hint style="danger" %}
+Dans notre jeu, la valeur sous-jacente de nos tokens est une des rares bouteilles de Pétrus 1945. Cette bouteille est bien été identifiée et est précieusement conservée dans un coffre. D'où des frais annuels de ce gardiennage. 
+
+Comme la bouteille n'a pas été découpée physiquement en différents morceaux pour chaque 'propriétaire', elle a été **tokénisée**. C'est à dire que sa valeur a été partagée entre des bons de valeur, les tokens non-fongible, représentant une fraction de la valeur totale de la bouteille. Dans notre exemple, nous avons choisie 10 fractions soit un total de 10 tokens. La valeur "initiale" étant de 25 000 €, chaque bon, en fait un token, vaudra 2 500 €.
+
+Autre point important à acquérir. Ces 10 tokens ont été identifiés individuellement dans la blockchain par un hash. Lors des transctions, il vous sera possible de vérifier, et nous vous conseillons de le faire, que vous **achetez bien un ou plusieurs des vrais tokens**. 
+
+Si vous ne faisiez pas cette vérification et que les tokens proposés sont faux, vous auriez perdu vos tokens fongibles (en fait votre argent dans la réalité).
+
+Autre point. Si vous perdez vos tokens non-fongibles de cette bouteille de Pétrus1945, ils seront perdus à jamais et pour tout le monde.
+{% endhint %}
+
+Ces rappels effectués, passons à la pratique. 
+
+### 4. Disposer de STCs en début de jeu
+
+Il est proposé de donner **à chaque participant 5 000 STCs comme "tokens fongibles"**. Ici, nous n'achètons pas des NFTs, nous distribuons "l'argent" pour le jeu. Ce montant peut varier en fonction du nombre de joueurs ou du prix de l'élément qui est tokenisé.
+
+Nous avons retenu 10 NFT à 2 500 € STCs l'unité pour la tokénisation de la bouteile de Pétrus 1945l. Les 5 000 STCs proposés serviront aussi à l'achat d'un NFT mais aussi à payer différents frais.
+
+{% hint style="success" %}
+Note sur le jeu lui-même. Il pourrait être imaginé un développement du jeu sous la forme d'un Monopoly avec le tirage de cartes comme : 
+
+* « Vous avez fait un héritage de 3 000 STCs »
+* ou, moins chanceux « La justice vous impose de payer vos dettes, vous devez vendre votre NTF Bouteille de Pétrus 1945 au plus offrant ! »
+{% endhint %}
+
+>
+>
+> Rappel. Il est **nécessaire de disposer préalablement des tokens pour toutes transactions**. La blockchain Acadee-Formation ne fait pas crédit.
 
 Sur la plateforme Acadee-Formation, le STC vaut un euro. Il est rappelé ici que l'achat est fictif est que la carte bancaire ne sera pas demandé.
 
