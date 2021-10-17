@@ -250,7 +250,7 @@ La zone devient verte, les informations du fichier apparaissent.
 
 Exemple d'écran. 
 
-![Les informations liées au fichier pour initier le transfert des STCs. Conserver ces informations.](<../.gitbook/assets/image (9).png>)
+![Les informations liées au fichier pour initier le transfert des STCs. Conserver ces informations.](<../.gitbook/assets/image (9) (1).png>)
 
 
 

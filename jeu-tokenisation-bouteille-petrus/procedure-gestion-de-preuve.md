@@ -17,4 +17,21 @@ Pour accéder à la Gestion de preuve, aller dans Fonctionnalités. Détails du 
 
 ![Les menus pour la Gestion de Preuve. Avec les fonctionnalités associées.](<../.gitbook/assets/image (10).png>)
 
-Bonne exploiration.
+
+
+L'écran de Démonstration GDP.
+
+![Les différentes fonctions proposées dans la gestion de preuve. ](<../.gitbook/assets/image (9).png>)
+
+
+
+Il est possible d'enrichir le jeu de la tokénisation d'une bouteille de Pétrus 1945 en incluant des procédures de vérification des différents contrats et tokens NFT.
+
+
+
+Nous vous souhaitons une bonne pratique.
+
+Rédacteur initial : José Relland, JRE Services.
+
+Contact : Samuel Dumas, platefrome Acadee-Formation.
+
