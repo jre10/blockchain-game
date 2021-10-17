@@ -12,6 +12,7 @@
 ## Le jeu de la tokénisation d'une bouteille de Pétrus <a href="jeu-tokenisation-bouteille-petrus" id="jeu-tokenisation-bouteille-petrus"></a>
 
 * [Procédure de tokénisation d'une bouteille de Pétrus](jeu-tokenisation-bouteille-petrus/actions-jeu.md)
+* [Procédure Gestion de Preuve](jeu-tokenisation-bouteille-petrus/procedure-gestion-de-preuve.md)
 
 ## Conclusion et suite à donner <a href="conclusion-suite-a-donner" id="conclusion-suite-a-donner"></a>
 

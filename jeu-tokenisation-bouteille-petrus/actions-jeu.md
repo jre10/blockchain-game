@@ -1,8 +1,8 @@
 ---
 description: >-
-  Nous vous invitons à suivre méthodiquement les actions ci-dessous. Comme
-  évoqué, au regard de l'évolution permanente de la plateforme, des écrans
-  peuvent être différents. À partir de cette procédure,
+  Version Communauté du jeu. Nous vous invitons à suivre méthodiquement les
+  actions ci-dessous. Au regard de l'évolution permanente de la plateforme, des
+  écrans peuvent être différents.
 ---
 
 # Procédure de tokénisation d'une bouteille de Pétrus
@@ -74,7 +74,7 @@ Pour vérifier le solde des tokens de son profil : menu Tokens > Mes Tokens.
 
 Entrer à nouveau vos identifiants. Le solde à 0 apparaît dans l'écran. Si vous avez déjà chargé votre compte, un solde différent apparaîtra. 
 
-![Écran indiquant le solde des tokens de votre profil. Les colonnes Types et Statut seront vues plus loin.](<../.gitbook/assets/image (6) (1) (1).png>)
+![Écran indiquant le solde des tokens de votre profil. Les colonnes Types et Statut seront vues plus loin.](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Ce solde est toujours positif ou nul, il ne peut pas être négatif. Une opération de retrait de STCs supérieure au nombre des STCs possédés n'est pas possible.
@@ -171,7 +171,7 @@ Il existe deux moyens de transférer de STCs. Cela correspond au deux types de T
 
 Dans l'écran ci-dessous, ce comte possède des tokens fongibles et des non-fongibles. Cela paraît évident mais cela va mieux en le disant, il n'est pas possible de transférer des NFTs que l'on ne possèdent pas !
 
-![Les tokens de ce compte sont : des tokens fongibles d'une valeur de 500 STC et onze tokens non-fongibles. La valeur de ces tokens NFT est le hash du document qui identifie le produit du monde réel. Sa valeur est celle du marché.](<../.gitbook/assets/image (10).png>)
+![Les tokens de ce compte sont : des tokens fongibles d'une valeur de 500 STC et onze tokens non-fongibles. La valeur de ces tokens NFT est le hash du document qui identifie le produit du monde réel. Sa valeur est celle du marché.](<../.gitbook/assets/image (10) (1).png>)
 
 Dans notre jeu, le transfert de STCs fongibles a comme principal objectif l'achat d'un de STCs non-fongibles, une fraction de la bouteille de Pétrus 1945. Un peu comme au Monopoly lorsque la banque distribue de l'argent au début du jeu. 
 
@@ -216,7 +216,7 @@ Si vous êtes au début du jeu, le transfert sera de 5 000 STCs. Exemple d'écra
 
 
 
-![L'empreinte du destinataire et le montant de STCs à transférer. Il reste à Valider le transfert.](<../.gitbook/assets/image (6) (1).png>)
+![L'empreinte du destinataire et le montant de STCs à transférer. Il reste à Valider le transfert.](<../.gitbook/assets/image (6) (1) (1).png>)
 
 
 
