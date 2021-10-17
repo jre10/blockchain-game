@@ -24,3 +24,13 @@ La commande Liste des contrats est un tableau de bord de la situation des contra
 
 
 
+Il est possible d'enrichir le jeu de la tokénisation d'une bouteille de Pétrus 1945 en incluant des procédures de prêts de STCs, les tokens fongibles, pour enrichir les possibilités de spéculation.
+
+
+
+Nous vous souhaitons une bonne pratique.
+
+Rédacteur initial : José Relland, JRE Services.
+
+Contact : Samuel Dumas, platefrome Acadee-Formation.
+
