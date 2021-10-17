@@ -36,7 +36,7 @@ Ce courriel est très important car il contient le `code de récupération` et d
 
 L'écran apparaît de la manière suivante. À noter que sur la gauche, le sous-menu Tokens apparaît complètement. C'est dans cet menu que nous 'allons jouer'.
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 
 {% endtab %}
@@ -72,7 +72,7 @@ Pour vérifier le solde des tokens de son profil : menu Tokens > Mes Tokens.
 
 Entrer à nouveau vos identifiants. Le solde à 0 apparaît dans l'écran. Si vous avez déjà chargé votre compte, un solde différent apparaîtra. 
 
-![Écran indiquant le solde des tokens de votre profil. Les colonnes Types et Statut seront vues plus loin.](<../.gitbook/assets/image (6) (1).png>)
+![Écran indiquant le solde des tokens de votre profil. Les colonnes Types et Statut seront vues plus loin.](<../.gitbook/assets/image (6) (1) (1).png>)
 
 {% hint style="warning" %}
 Ce solde est toujours positif ou nul, il ne peut pas être négatif. Une opération de retrait de STCs supérieure au nombre des STCs possédés n'est pas possible.
@@ -130,7 +130,7 @@ Pour obtenirs des STCs, avec le compte Gestionnaire ou le compte Administrateur,
 
 Retourner dans Mes Tokens pour vérifier votre nouveau solde. Il s'agit bien de tokens fongibles.
 
-![Mon solde de STCs fongibles soit 5 000 Stcs. ](<../.gitbook/assets/image (7) (1).png>)
+![Mon solde de STCs fongibles soit 5 000 Stcs. ](<../.gitbook/assets/image (7) (1) (1).png>)
 
 
 
@@ -147,41 +147,119 @@ Ci-dessous le processus pour un de ces documents avec GDP, Gestion De Preuve. Da
 Pour enregistrer notre NFT Bouteille de Pétrus 1945, nous utiliserons, pour des raisons de simplifications, la procédure "Sans Validation". La procédure "Avec Validation" peut être utilisée mais nécessite une tierce personne, un validateur.
 
 {% hint style="success" %}
-Nous avons réalisé pour vous ces 10 documents. Téléchargeables ci-dessous. Il est tout à fait possible de rédiger vos propres documents et de les enregistrer dans la blockchain Acadde-Formation. Et ceci afin de réaliser votre propre tokénisation d'un de vos propre "sous-jacent" réel, un appartement, un terrain, une oeuvre d'art.
+Nous avons réalisé pour vous ces 10 documents. Téléchargeables ci-dessous. Il est tout à fait possible de rédiger vos propres documents et de les enregistrer dans la blockchain Acadde-Formation. Et ceci afin de réaliser votre propre tokénisation d'un de vos propre "sous-jacent" réel, un appartement, un terrain, une œuvre d'art.
 {% endhint %}
 
 #### Création dans la blockchain Acadee-Formation des tokens de la bouteille de Pétrus 1945
 
+{% file src="../.gitbook/assets/Tokens NFT Pétrus 1945.zip" %}
+Les 10 tokens NFT pour la bouteille de Pétrus 1945. À vérifier si ceux-ci ont déjà été chargés dans Gestion De Preuve.
+{% endfile %}
 
+### 6. Transférer des STCs
 
-### x. Transférer des STCs
+Ce chapitre est très important. Il perment de transférer des tokens d'un joueur à l'autre.
 
-Le transfert de STCs a comme principal objectif l'achat d'un produit réel ou fictif. Dans le cas de notre jeu, dans cette version en cours, il s'agit d'acheter des tokens d'une fraction d'une bouteille de Pétrus 1945. Il est possible d'imaginer des transferts de STCs, des tokens, pour d'autres sujets.
+Il existe deux moyens de transférer de STCs. Cela correspond au deux types de Tokens vus plus haut : 
 
-Afin de bien matérialisé le thème de ce transfert, nous vous proposons ce type de fichier.
+* **Les tokens fongibles**, il s'agit juste d'un "transfert" d'argent, avec en entrée des (faux) euros,
+* **Les tokens non-fongibles**, basés sur un sous-jacent qui sera ici les tokens NFT de la bouteille de Pétrus 1945.   
 
-Le transfert de STCs se fait de deux manière : 
+Dans l'écran ci-dessous, ce comte possède des tokens fongibles et des non-fongibles. Cela paraît évident mais cela va mieux en le disant, il n'est pas possible de transférer des NFTs que l'on ne possèdent pas !
 
-* De manière directe, il suffit de cliquer sur le montant des STCs
-* Accompagné d'un fichier à vérifier : Vérifier le hash de mon fichier
+![Les tokens de ce compte sont : des tokens fongibles d'une valeur de 500 STC et onze tokens non-fongibles. La valeur de ces tokens NFT est le hash du document qui identifie le produit du monde réel. Sa valeur est celle du marché.](<../.gitbook/assets/image (10).png>)
+
+Dans notre jeu, le transfert de STCs fongibles a comme principal objectif l'achat d'un de STCs non-fongibles, une fracion de la bouteille de Pétrus 1945. Un peu comme au Monopoly lorsque la banque distribue de l'argent au début du jeu. Le transfert de STCs non-fongibles a pour but soit d'acquérir entièrement la bouteille de Pétrus, soit en acquérir des fractions pour les revendre plus chers et ainsi réaliser des plus values. 
+
+Le transfert de STCs est présenté dans les deux onglets ci-dessous. 
 
 {% tabs %}
-{% tab title="Transférer des STCs de manière directe" %}
+{% tab title="Transférer des STCs fongibles " %}
 
+
+Ici, il s'agit de créditer le compte des joueurs pour négocier des NFTs de la bouteille de Pétrus 1945. Un peu au Monopoly lorsque la banque distribue des billets en début de jeu.
+
+Un STC égale un euro (fictif)
+
+Pour faire un transfert, il est nécessaire de connaître l'empreinte du destinataire. Ce point a été vu plus haut. Pour mémoire, le destinataire doit vous la faire parvenir (elle n'est pas secrète mais il n'est pas utile de la rendre publique) en copiant-collant son empreinte dans : Tokens > Mon empreinte.
+
+ 
+
+Pour réaliser ce transfert, aller dans Tokens > Transférer des tokens. Remplir l'écran d’authentification.
+
+Le solde de vos tokens apparaît. Comme déjà indiqué, vous ne pouvez pas transférer des tokens que vous n'avez pas.
+
+Selon le cas, dans la liste, il apparaît : 
+
+* Au minimum des tokens fongibles
+* Si c'est le cas, des tokens non-fongibles. Une référence apparaît en début de ligne.
+
+Ici, pour le transfert de STCs fongibles, nous allons nous intéresser uniquement au STC fongibles. **Cliquer sur le montant de vos STC fongibles**, un nouvel écran apparaît.  
+
+Ce nouvel écran, Transférer des tokens , vous demande : 
+
+* L'empreinte du récepteur de votre transfert (en fait le destinataire !)
+* Et le nombre de STC à transférer. 
+
+Si vous êtes au début du jeu, le transfert sera de 5 000 STCs. Exemple d'écran.
+
+
+
+![L'empreinte du destinataire et le montant de STCs à transférer. Il reste à Valider le transfert.](<../.gitbook/assets/image (6) (1).png>)
+
+
+
+L'expéditeur et le destinataire peuvent vérifier les mouvements de STCs fongibles de leur compte respectif en allant sur : Tokens > Mes tokens.
 {% endtab %}
 
-{% tab title="Transférer des STCs avec documents joints" %}
+{% tab title="Transférer des NFTs avec document" %}
 
+
+Ici, nous sommes dans le coeur de la tokénisation d'un objet réel. Ceux qui peuvent prouver, et c'est la mission de la blockchain, qu'ils détiennent ces tokens non-fongibles est donc le propriétaire, au moins du point de vue de la blockchain, de l'objet réel. 
+
+Si votre compte et piraté et vos NFT détournés vers d'autres comptes ou si vous perdez l'accès à votre compte, vous ne pourrez plus prétendre à la propriété virtuelle de l'objet réel et donc à des droits réels dessus.
+
+
+
+Pour transférer un NFT, aller dans Tokens > Transférer des tokens. Entrer les identifiants de votre compte. 
+
+Dans le nouvel écran, il apparaît : 
+
+* Le solde de vos tokens fongibles,
+* Éventuellement la liste de vos tokens non-fongibles qui commencent pas une référence,
+* Et, ce qui est important pour notre procédure, la fonction "Vérifier le hash de votre document". Voir le chevron à droite pour éventuellement faire apparaître la zone "Déposer votre fichier ici.").
+
+
+
+Glisser-déposer votre token NFT qui est sous la forme d'un fichier. Voir plus haut la proposition de tokens pour la bouteille de Pétrus 1945 ou glisser votre propre token NFT.
+
+La zone devient verte, les informations du fichier apparaissent.
+
+
+
+Exemple d'écran. 
+
+![Les informations liées au fichier pour initier le transfert des STCs. Conserver ces informations.](<../.gitbook/assets/image (9).png>)
+
+
+
+Nous allons voir que dans la suite de la procédure, le destinataire du transfert aura le choix d'accepter ou de refuser ce transfert. Si il accepte, les échanges se font. Si il refuse, tout revient à l'état initial. Pour connaître le statut de ces échanges, allez dans Tokens > Transfert en attente. C'est l'objet du chapitre suivant.
+
+
+
+Pour mémoire, le transfert des tokens fongibles décrit dans l'autre onglet ne dispose pas de cette fonction (dans la version actuelle).
 {% endtab %}
 {% endtabs %}
 
 
 
-{% file src="../.gitbook/assets/Tokenisation-Petrus-Transfert_Light.png" %}
+### Rappels et précisions dans le contexte du jeu
 
- 
+Les manipulations proposées ci-dessous sont applicables quelque soit le contexte. Il est possible à chacun de créer son propre contexte.
 
-Des STCs de notre compte (de notre profil) seront transférer vers le vendeur. Des frais de réalisation du contrat de tokénisation et des frais annuels de 'gardiennage' de la bouteille seront aussi à prendre en compte.
+Pour mémoire, des éléments sont rappelés et précisés dans le contexte du jeu de la tokénisation d'une bouteille de Pétrus 1945.
+
+ Des STCs de notre compte (de notre profil) seront transférer vers le vendeur. Des frais de réalisation du contrat de tokénisation et des frais annuels de 'gardiennage' de la bouteille seront aussi à prendre en compte.
 
 {% hint style="info" %}
 Si vous êtes le seul joueur de la partie, il est nécessaire de créer le compte d'un joueur supplémentaire pour faire les transactions. Ce compte pourrait avoir pour identifiant : \`Gérant\`. Le mot de passe et le courriel pourrait être le même que le profil en cours.
@@ -201,37 +279,47 @@ Détails du transfert
 Soit un versement initial de 3 100 €/STCs.
 {% endhint %}
 
-Pour réaliser le transfert de STCs à partir de votre profil, aller dans Tokens > Transférer des tokents. Entrer les identifiants de votre compte. Dans Vérifier le hash de votre document (voir le chevron à droite pour découvrir la zone "Déposer votre fichier ici."), glisser votre fichier dans la zone colorée.
+Nous vous rappelons qu'il s'agit ici d'une version communauté. Il vous est possible de contribuer à l'élaboration de la règle du jeu, voire d'en créer une nouvelle.
 
-La zone devient verte, les informations du fichier apparaissent.
-
-![Les informations liées au fichier pour initier le transfert des STCs. Conserver ces informations.](<../.gitbook/assets/image (9).png>)
-
-
-
-Pour transférer les tokens, cliquer sur votre solde de token. 
-
-Dans le nouveau écran, indiquer l'Empreinte du récepteur, c'est dire celle du destinataire du prêt. Pour mémoire, l'empreinte d'un compte est dans : Tokens > Mon empreinte.
-
-![L'empreinte du destinataire et le montant de STCs à transférer.](<../.gitbook/assets/image (6).png>)
-
-L'expéditeur et le destinataire peuvent vérifier les mouvements de STCs de leur compte respectif en allant sur : Tokens > Mes tokens.
+### Accepter ou refuser un transfert de NFTs
 
 
 
 
 
+Pour Accepter ou refuser un transfert de NFTs dont vous êtes l'unique destiantaire : 
+
+Aller dans Tokens > Transfert en attente. Dans la "Liste des transferts reçus en attente d'acceptation", cliquer sur l'icône du marteau du NFT considérés. Un nouvel écran s'ouvre qui permet d'Accepter ou de Refuser le transfert.
+
+![Votre réponse à donner suite à une transfert en votre faveur d'un NFT en échange de STCs.](<../.gitbook/assets/image (7).png>)
+
+Pourquoi refuser le transfert, la question pourrait se poser : 
+
+* Il y a eu une erreur d'empreinte, vous n'êtes pas le destinataire attendu
+* Vous avez changé d'avis sur le montant en échange ou sur le projet
+* Vous n'avez plus, ou pas encore, les STCs dans votre compte.
 
 
-### Acheter des STCs avec et sans l'accord du vendeur
 
-Acheter des STC avec et sans refus du vendeur
+
+
+
 
 ### Transférer des STCs
 
 #### Transfert en attente
 
-### Acheter des STCs sans en disposer suffisamment
+
+
+### Acheter des NFTs sans disposer suffisamment de STCs
+
+Lors d'une transfert d'un NFT en échange de tokens fongibles, après acceptation du destinataire, si celui-ci n'a pas suffisamment de STCs, le transfert est refusé.
+
+![C'est après acceptation du transfert par le destinataire que l'on vérifie si celui-ci possède suffisamment de STCs.](<../.gitbook/assets/image (5).png>)
+
+
+
+À noter qu'il est possible de transférer "gracieusement" un NFT en cochant la case "Donaltion" lors du transfert.
 
 ## Autres actions
 
