@@ -23,7 +23,9 @@ L'écran de Démonstration GDP.
 
 ![Les différentes fonctions proposées dans la gestion de preuve. ](<../.gitbook/assets/image (9).png>)
 
-
+{% hint style="warning" %}
+Dans la version actuelle de la plateforme, le retour en arrière des écrans se fait par le retour arrière du navigateur.
+{% endhint %}
 
 Il est possible d'enrichir le jeu de la tokénisation d'une bouteille de Pétrus 1945 en incluant des procédures de vérification des différents contrats et tokens NFT.
 
