@@ -15,13 +15,13 @@ Vous êtes invité à créer des procédures en lien avec le jeu proposé ici ou
 
 Pour accéder à la Gestion de preuve, aller dans Fonctionnalités. Détails du menu : 
 
-![Les menus pour la Gestion de Preuve. Avec les fonctionnalités associées.](<../.gitbook/assets/image (10).png>)
+![Les menus pour la Gestion de Preuve. Avec les fonctionnalités associées.](<../.gitbook/assets/image (10) (1).png>)
 
 
 
 L'écran de Démonstration GDP.
 
-![Les différentes fonctions proposées dans la gestion de preuve. ](<../.gitbook/assets/image (9).png>)
+![Les différentes fonctions proposées dans la gestion de preuve. ](<../.gitbook/assets/image (9) (1).png>)
 
 {% hint style="warning" %}
 Dans la version actuelle de la plateforme, le retour en arrière des écrans se fait par le retour arrière du navigateur.
