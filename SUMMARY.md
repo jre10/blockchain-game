@@ -24,28 +24,3 @@
 * [Annexes](annexes/annexes.md)
 * [Décoder un bloc du registre](annexes/decoder-bloc-registre.md)
 * [Historique des versions](annexes/historique-des-versions.md)
-
-## Outils de la blockchain <a href="outil" id="outil"></a>
-
-* [Smart Contracts](smart-contracts.md)
-* [Tokens](tokens.md)
-* [Applications](application/README.md)
-  * [Vote (À faire)](application/vote.md)
-  * [Ekoco (À faire)](application/ekoco.md)
-
-## Les acteurs de la Blockchain <a href="acteur" id="acteur"></a>
-
-* [Généralités sur les acteurs de la blockchain](acteur/generalites-sur-les-acteurs-de-la-blockchain.md)
-* [Les gestionnaires](acteur/gestionnaire.md)
-* [Les validateurs](acteur/validateur.md)
-* [Les utilisateurs](acteur/utilisateur.md)
-
-## Administration et Sécurité de la blockchain <a href="admin-securite" id="admin-securite"></a>
-
-* [Administration de la plateforme](admin-securite/admin-plateforme.md)
-* [Détails des commandes du sous-menu Administration](admin-securite/details-des-commandes-du-sous-menu-administration.md)
-* [Sécurité de la plateforme](admin-securite/securite-plateforme.md)
-
-***
-
-* [À supprimer - Notes](a-supprimer-notes.md)
