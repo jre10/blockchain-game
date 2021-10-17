@@ -24,7 +24,7 @@ Pour obtenir un profil de Gestionnaire, merci de contacter Samuel de Acadee-Form
 
 1. Vous recevrez par courriel un lien de création de compte Gestionnaire. Cliquer sur le lien `lien vers l'inscription` puis documenter les différents champs proposés.
 
-![Documenter les différents champs puis créer votre compte Gestionnaire (Voir les règles de nommage de l'identifiant)](<../.gitbook/assets/image (4) (1) (1).png>)
+![Documenter les différents champs puis créer votre compte Gestionnaire (Voir les règles de nommage de l'identifiant)](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 Confirmer le ou les écrans de sécurité.
 
@@ -142,7 +142,7 @@ Dix documents ont été créés et sont à identifier dans la blockchain.
 
 Ci-dessous le processus pour un de ces documents avec GDP, Gestion De Preuve. Dans le menu : Fonctionnalités > Gestion de preuve > Démonstration GDP. 
 
-![Écran principal de Gestion de preuve](<../.gitbook/assets/image (4).png>)
+![Écran principal de Gestion de preuve](<../.gitbook/assets/image (4) (1).png>)
 
 Pour enregistrer notre NFT Bouteille de Pétrus 1945, nous utiliserons, pour des raisons de simplifications, la procédure "Sans Validation". La procédure "Avec Validation" peut être utilisée mais nécessite une tierce personne, un validateur.
 
@@ -320,6 +320,35 @@ Lors d'une transfert d'un NFT en échange de tokens fongibles, après acceptatio
 
 
 À noter qu'il est possible de transférer "gracieusement" un NFT en cochant la case "Donaltion" lors du transfert.
+
+![Ici, le NFT sera transféré gratuitement, sans échange de STCs.](<../.gitbook/assets/image (4).png>)
+
+
+
+### Fin de la procédure, début du jeu
+
+Toutes les procédures du jeu sont désormais connus et pratiquée (selon le profil du joueur).
+
+En premier lieu, il vous est possible de proposer les corrections des fautes d'orthographe et fautes de style.
+
+Ensuite, comme évoqué, 
+
+* soit vous trouver un partenaire pour faire les échanges
+* soit vous jouer seul et il vous sera nécessaire de créer plusieurs comptes.
+
+
+
+Dans tous les cas, nous vous encourageons à enrichir ce jeu.
+
+
+
+
+
+Bonne pratique.
+
+Rédacteur initial : José Relland, JRE Services.
+
+Contact : Samuel Dumas, platefrome Acadee-Formation.
 
 ## Autres actions
 
