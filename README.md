@@ -6,11 +6,11 @@ description: >-
 
 # Avant-propos et remerciements
 
-### Avant-propos
+## Avant-propos
 
-Ce jeu "libre et ouvert", a pour but d'expérimenter une des plus importants usages de la blockchain (hors cryptomonnaie) : **la tokénisation d'un bien réel**. 
+Ce jeu "libre et ouvert", a pour but d'expérimenter un des plus importants usages de la blockchain (hors cryptomonnaie) : **la tokénisation d'un bien réel**. 
 
-Les autres usages de la blockchain (hors cryptomonnaie) étant accessible sur la plateforme, il vous sera possible de les découvrir par vous-même.
+Les autres usages de la blockchain (hors cryptomonnaie) étant accessible sur la plateforme, il vous sera possible de les découvrir par vous-même. Ces duex autres usages sont : Gestion de la preuve et les Smart Contracts.
 
 > Note : Acadee-Formation a le projet de faire un jeu complet sur les trois usages mentionnés.
 
@@ -49,6 +49,6 @@ Nous remercions **Samuel Dumas** de Acadee-formation.
 
 ## Licence
 
-Rédiger par M. José Relland, de JRE Services. 
+Rédigé par M. José Relland, de JRE Services. 
 
 Pour les droits de reproduction, contacter M. Samuel Dumas de Acadee-Formation.
