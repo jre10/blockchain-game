@@ -1,6 +1,6 @@
 ---
 description: >-
-  Version Communauté du jeu. La procédure de gestion de preuve a été abordée
+  Version Communauté du jeu. La procédure de Gestion de preuve a été abordée
   partiellement dans la procédure de tokénisation. Vous êtes invité à explorer
   les différents écrans.
 ---
