@@ -10,7 +10,7 @@ description: >-
 
 Ce jeu "libre et ouvert", a pour but d'expérimenter un des plus importants usages de la blockchain (hors cryptomonnaie) : **la tokénisation d'un bien réel**. 
 
-Les autres usages de la blockchain (hors cryptomonnaie) étant accessible sur la plateforme, il vous sera possible de les découvrir par vous-même. Ces duex autres usages sont : Gestion de la preuve et les Smart Contracts.
+Les autres usages de la blockchain (hors cryptomonnaie) étant accessible sur la plateforme, il vous sera possible de les découvrir par vous-même. Ces deux autres usages sont : Gestion de la preuve et les Smart Contracts.
 
 > Note : Acadee-Formation a le projet de faire un jeu complet sur les trois usages mentionnés.
 
