@@ -89,7 +89,7 @@ Ce point est important. Comme vu dans la formation DéFi de Benjamin Faraggi sur
 
 Exemple d'un solde d'un compte avec tokens fongibles et tokens non-fongibles.
 
-![Solde des tokens d'un compte avec des tokens fongibles et des tokens non-fongibles (NFT)](<../.gitbook/assets/image (8).png>)
+![Solde des tokens d'un compte avec des tokens fongibles et des tokens non-fongibles (NFT)](<../.gitbook/assets/image (8) (1).png>)
 
 **Les tokens fongibles** n'ont pas de "sous-jacents" uniques. Leur valeur est celle du marché. C'est donc une crypto-monnaie. Note : dans notre jeu, cela servira uniquement aux transactions, 1 token (ou STC) vaudra toujours 1 euro. Cette comparaison est fictive dans notre jeu.
 
@@ -132,7 +132,7 @@ Pour obtenir des STCs, avec le compte Gestionnaire ou le compte Administrateur, 
 
 Retourner dans Mes Tokens pour vérifier votre nouveau solde. Il s'agit bien de tokens fongibles.
 
-![Mon solde de STCs fongibles soit 5 000 STCs. ](<../.gitbook/assets/image (7) (1) (1).png>)
+![Mon solde de STCs fongibles soit 5 000 STCs. ](<../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 
 
@@ -294,7 +294,7 @@ Pour Accepter ou refuser un transfert de NFTs dont vous êtes l'unique destinata
 
 Aller dans Tokens > Transfert en attente. Dans la "Liste des transferts reçus en attente d'acceptation", cliquer sur l'icône du marteau du NFT considérés. Un nouvel écran s'ouvre qui permet d'Accepter ou de Refuser le transfert.
 
-![Votre réponse à donner suite à une transfert en votre faveur d'un NFT en échange de STCs.](<../.gitbook/assets/image (7).png>)
+![Votre réponse à donner suite à une transfert en votre faveur d'un NFT en échange de STCs.](<../.gitbook/assets/image (7) (1).png>)
 
 Pourquoi refuser le transfert, la question pourrait se poser : 
 

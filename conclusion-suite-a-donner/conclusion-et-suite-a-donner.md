@@ -39,7 +39,7 @@ Il est possible aussi d'imaginer des **applications** à ajouter à la plateform
 * Vote : pour des votes inscrits dans la blockchain
 * Ekoco : L'application qui fait DU BIEN À LA PLANÈTE. Pour la gestion du CO2
 
-![Ékoco, une applicatiLes usages c'est comment les mettre en oeuvre. Et pour cette mise en oeuvre, les interfaces des plateformes sont, bien sûr, complètement différentes.on mobile basée sur la blockchain.](<../.gitbook/assets/image (8) (1).png>)
+![Ékoco, une applicatiLes usages c'est comment les mettre en oeuvre. Et pour cette mise en oeuvre, les interfaces des plateformes sont, bien sûr, complètement différentes.on mobile basée sur la blockchain.](<../.gitbook/assets/image (8) (1) (1).png>)
 
 Et pour compléter le fonctionnement de la plateforme, parcourir les rôles : 
 
