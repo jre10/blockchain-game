@@ -8,7 +8,7 @@ description: Essai d'analyse du registre et d'un bloc du registre
 
 Le registre du réseau des nodes de cette blockchain est lisible, uniquement avec le profil d'administrateur, par Sécurité > Registre.
 
-![Registre d'une blockchain Spuro. Possibilité de sauvegarder ce registre et de faire des recherches dans les chaînes de caractères.](<../.gitbook/assets/image (5) (1).png>)
+![Registre d'une blockchain Spuro. Possibilité de sauvegarder ce registre et de faire des recherches dans les chaînes de caractères.](<../.gitbook/assets/image (5) (1) (1).png>)
 
 Bien noter la longueur de la chaîne de caractères en regardant la largeur de l'ascenseur horizontal en bas de l'écran blanc. Dans l'exemple ci-dessus, la première ligne comprend 751 caractères.
 
