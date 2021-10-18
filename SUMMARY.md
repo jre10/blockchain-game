@@ -25,3 +25,4 @@
 * [Annexes](annexes/annexes.md)
 * [Décoder un bloc du registre](annexes/decoder-bloc-registre.md)
 * [Historique des versions](annexes/historique-des-versions.md)
+* [Proposition de ...](annexes/proposition-de-....md)

@@ -4,6 +4,10 @@ description: Annexes de la version Communauté du jeu.
 
 # Annexes
 
+{% hint style="warning" %}
+Le présent document et les propositions partagées ici sont réputées sans droit d'auteur ni exclusivité. Cela veut dire que chacun ou en groupe, il lui sera possible de copier ou de s'inspirer de ce projet à titre personnel ou professionnel sans restriction.
+{% endhint %}
+
 Les annexes contiennent diverses informations dont vos propositions.
 
 
