@@ -4,7 +4,11 @@ description: Annexes de la version Communauté du jeu.
 
 # Annexes
 
-Menu de la plateforme
+Les annexes contiennent diverses informations dont vos propositions.
+
+
+
+### Menu de la plateforme Acadee-Formation
 
 * Administration : Zone réservée uniquement à l'administrateur qui peut agir comme gestionnaire.
 * Sécurité : Liste et vérification des registres et des nodes
@@ -13,8 +17,20 @@ Menu de la plateforme
 * Tokens : Menu pour la tokenisation de objets non-fongibles. Hors crypto-monnaie
 * Applications : Applications spécifiques développées sur cette blockchain comme Ekoco, Vote.
 
-FAQ
+### FAQ
+
+À compléter de vos questions.
 
 * Clé unique : connu uniquement de vous, à conservé dans un wallet ou un gestionnaire de mots de passe
 * Wallet :
 * ...
+
+### Vos commentaires et propositions de jeu
+
+Vos commentaires et propositions de jeu peuvent apparaître ci-dessous.
+
+Pour une proposition importante, une nouvelle page pourra être crée.
+
+Il est possible de vous accorder un droit d'accès en écriture sur la plateforme (sans risque technique pour le document).
+
+Contacter Samuel de Acadee-Formation.
