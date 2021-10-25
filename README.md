@@ -8,7 +8,7 @@ description: >-
 
 ## Avant-propos
 
-Ce jeu "libre et ouvert", a pour but d'expérimenter un des plus importants usages de la blockchain (hors cryptomonnaie) : **la tokénisation d'un bien réel**. 
+Ce jeu "libre et ouvert", a pour but d'expérimenter un des plus importants usages de la blockchain (hors cryptomonnaie) : **la tokénisation d'un bien réel**.
 
 Les autres usages de la blockchain (hors cryptomonnaie) étant accessible sur la plateforme, il vous sera possible de les découvrir par vous-même. Ces deux autres usages sont : Gestion de la preuve et les Smart Contracts.
 
@@ -22,9 +22,9 @@ La "tokénisation" d'une bouteille de **Bordeaux Petrus 1945** servira de fil co
 
 **Nous insistons sur le fait que, pour ce jeu en version 0.1, il ne vous sera pas demandé d'argent. Tout le jeu est fictif.**
 
-Contrairement à la proposition initiale qui était centrée sur le "profil utilisateur", vous réaliserez les manipulations avec le "profil Gestionnaire". 
+Contrairement à la proposition initiale qui était centrée sur le "profil utilisateur", vous réaliserez les manipulations avec le "profil Gestionnaire".
 
-Pour créer ce profil de Gestionnaire, il est nécessaire de passer par le profil Administrateur. Acadee-Formation fera savoir rapidement si ce profil administrateur sera : 
+Pour créer ce profil de Gestionnaire, il est nécessaire de passer par le profil Administrateur. Acadee-Formation fera savoir rapidement si ce profil administrateur sera :
 
 * publique, et dans ce cas vous pourrez créer votre profil Gestionnaire
 * ou si ce profil de Gestionnaire sera créé par Acadee-Formation.
@@ -32,8 +32,6 @@ Pour créer ce profil de Gestionnaire, il est nécessaire de passer par le profi
 Nous vous invitons à Samuel sur le forum la plateforme de Acadee-Formation.
 
 Toute l'équipe d'Acadee-Formation, de Spuro et moi-même, nous vous souhaitons une bonne lecture et une excellente partie.
-
-
 
 ### Rejoignez-nous
 
@@ -49,6 +47,6 @@ Nous remercions **Samuel Dumas** de Acadee-formation.
 
 ## Licence
 
-Rédigé par M. José Relland, de JRE Services. 
+Rédigé par M. **José Relland**, de JRE Services, auditeur DéFi.
 
-Pour les droits de reproduction, contacter M. Samuel Dumas de Acadee-Formation.
+Pour les droits de reproduction, contacter M. **Samuel Dumas** de Acadee-Formation.
