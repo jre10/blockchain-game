@@ -8,7 +8,7 @@ description: Des notes et brouillons temporaires
 
 * [ ] Point sur les versions
 * [ ] Terminer Outils de la Blockchain
-* [x] Règles du jeu Finaliser une proposition 
+* [x] Règles du jeu Finaliser une proposition&#x20;
 * [ ] Terminer Vocabulaire et sigles
 * [ ] Revoir les rôles pour faire les transferts
 
@@ -16,7 +16,7 @@ description: Des notes et brouillons temporaires
 
 L'écran
 
-![](.gitbook/assets/v03-inscription-gestionnaire-2.png)
+![](.gitbook/assets/V03-Inscription-Gestionnaire-2.png)
 
 Le contenu du courriel à la création
 
@@ -26,7 +26,7 @@ Le contenu du courriel à la création
 >
 > Votre identifiant est : admin-jre
 >
-> Voici un lien vous permettant de télécharger un code de récupération de clef unique, ne le perdez pas sinon il vous sera impossible de récupérer votre clef unique en cas d'oubli : [code de récupération](http://vps-883960cf.vps.ovh.net/RecupCodeClefUnique?link=1627998071878836429&s=A)
+> Voici un lien vous permettant de télécharger un code de récupération de clef unique, ne le perdez pas sinon il vous sera impossible de récupérer votre clef unique en cas d'oubli : [code de récupération](http://vps-883960cf.vps.ovh.net/RecupCodeClefUnique?link=1627998071878836429\&s=A)
 >
 > Cordialement.
 >
@@ -44,7 +44,7 @@ Ce courriel contient un lien pour télécharger un PDF qui contient le code de r
 
 Le code est envoyé dans un PDF
 
-![Code de r&#xE9;cup&#xE9;ration d&apos;une cl&#xE9; unique. ](.gitbook/assets/v03-code-recuperation-pdf1.png)
+![Code de récupération d'une clé unique. ](.gitbook/assets/v03-code-recuperation-pdf1.png)
 
 ### Test images
 
@@ -52,9 +52,8 @@ Insertion d'image du serveur, glisser :  pas modifiable !
 
 Avec la commande Image accessible à partir du curseur !
 
-![](.gitbook/assets/alwaysdata-accueil-2021.png)
+![](<.gitbook/assets/alwaysdata-accueil-2021 (1).png>)
 
 Insert palette et la commande palette !
 
- ![](.gitbook/assets/v03-document-partager-nodes.png) 
-
+&#x20;![](.gitbook/assets/v03-document-partager-nodes.png)&#x20;

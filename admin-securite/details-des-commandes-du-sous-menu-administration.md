@@ -8,17 +8,17 @@ description: Commandes et écrans du menu administration
 À noter que certains champs proposent de l'aide en ligne en cliquant sur l'icône ❔
 {% endhint %}
 
-![](../.gitbook/assets/v19-liste-gestionnaire%20%282%29%20%284%29%20%286%29%20%286%29.png)
+![](<../.gitbook/assets/v19-liste-gestionnaire (2) (4) (6) (6).png>)
 
 ## Paramètres
 
-Cet écran permet à l'**administrateur de consulter et de modifier** \(en cliquant sur le crayon\) les paramètres généraux du serveur de ce node de la blockchain Acadee-Formation.
+Cet écran permet à l'**administrateur de consulter et de modifier** (en cliquant sur le crayon) les paramètres généraux du serveur de ce node de la blockchain Acadee-Formation.
 
-![&#xC9;cran de Administration &amp;gt; Param&#xE8;tres. Consultation et modification des param&#xE8;tres g&#xE9;n&#xE9;raux](../.gitbook/assets/v19-ecran-parametres%20%281%29.png)
+![Écran de Administration \&gt; Paramètres. Consultation et modification des paramètres généraux](../.gitbook/assets/v19-ecran-paramètres.png)
 
 Pour visualiser l'ensemble des paramètres généraux, utiliser l'ascenseur de l'écran central.
 
-![Liste compl&#xE8;te des param&#xE8;tres g&#xE9;n&#xE9;raux dans l&apos;&#xE9;cran centrale.](../.gitbook/assets/v19-details-parametres.png)
+![Liste complète des paramètres généraux dans l'écran centrale.](../.gitbook/assets/v19-details-paramètres.png)
 
 ## Email administrateur
 
@@ -32,11 +32,11 @@ Cliqer sur \`CONTACTER TOUS LES ADMINISTRATEURS\`
 
 Dans un premier temps, la liste apparaît.
 
-![Dans Administration &amp;gt; Email, liste des admins et gestionnaires &#xE0; contacter.](../.gitbook/assets/v19-liste-admin-gestionnaire.png)
+![Dans Administration \&gt; Email, liste des admins et gestionnaires à contacter.](../.gitbook/assets/v19-liste-admin-gestionnaire.png)
 
 En cliquant sur \`ok\`, une boîte apparaît pour la rédaction et l'envoi du message.
 
-![Dans Administration &amp;gt; Email, r&#xE9;daction du message &#xE0; envoyer aux admins.](../.gitbook/assets/v19-redaction-message.png)
+![Dans Administration \&gt; Email, rédaction du message à envoyer aux admins.](../.gitbook/assets/v19-redaction-message.png)
 
 Cliquer sur \`Envoyer\`, les personnes listées vont recevoir ce message.
 
@@ -44,7 +44,7 @@ Cliquer sur \`Envoyer\`, les personnes listées vont recevoir ce message.
 
 Cette commande fait apparaître la liste des nodes de cette blockchain. À noter que pour la blockchain pédagogique Acadee-Formation, il y a qu'un seul node.
 
-![Dans Administration &amp;gt; Liste des nodes, il appara&#xEE;t la liste de nodes avec des outils de recherche](../.gitbook/assets/v19-liste-nodes.png)
+![Dans Administration \&gt; Liste des nodes, il apparaît la liste de nodes avec des outils de recherche](../.gitbook/assets/v19-liste-nodes.png)
 
 À noter que l'administrateur pour supprimer un node à partir de cet écran. Cela peut-être nécessaire si il apparaît que ce node a été corrompu.
 
@@ -56,7 +56,7 @@ Cette commande fait apparaître la liste des nodes de cette blockchain. À noter
 
 Nous vous recommandons de bien conserver votre clé unique. Dans le cas de la perte de votre clé unique, contacter l'administrateur ou le gestoinnaire.
 
-![Dans Administration &amp;gt; Cl&#xE9; unique oubli&#xE9;e, l&apos;administrateur peut tenter de r&#xE9;cup&#xE9;rer votre cl&#xE9;.](../.gitbook/assets/v19-cle-perdue.png)
+![Dans Administration \&gt; Clé unique oubliée, l'administrateur peut tenter de récupérer votre clé.](../.gitbook/assets/v19-clé-perdue.png)
 
 ## Créer un gestionnaire
 
@@ -64,7 +64,7 @@ Pour créer un gestionnaire, l'administrateur entre l'adresse e-mail dans ce cha
 
 Comme déjà évoqué, le gestionnaire ne devra pas perdre sans clé unique.
 
-![](../.gitbook/assets/v19_email-nouveau-gestionnaire.png)
+![](../.gitbook/assets/v19\_email-nouveau-gestionnaire.png)
 
 Pour la suite du processus de création du gestionnaire, voir la page Les gestionnaires.
 
@@ -74,11 +74,11 @@ La liste des gestionnaires créé par l'administrateur apparaît ici. Un gestion
 
 Les statuts d'Administrateur et de Gestionnaires sont affichés.
 
-![](../.gitbook/assets/v19-liste-gestionnaire%20%282%29%20%284%29%20%286%29%20%286%29%20%285%29.png)
+![](<../.gitbook/assets/v19-liste-gestionnaire (2) (4) (6) (6) (1).png>)
 
 ### A propos de la colonne Empreinte
 
-Une "empreinte" lisible est indiquée pour chaque utilisateur. Cette empreinte est votre identification dans les registres de la blockchain. Chaque des actions que vous inscrirez dans la blockchain \(comme acheter des tokens\) portera cette empreinte pour vous identifier.
+Une "empreinte" lisible est indiquée pour chaque utilisateur. Cette empreinte est votre identification dans les registres de la blockchain. Chaque des actions que vous inscrirez dans la blockchain (comme acheter des tokens) portera cette empreinte pour vous identifier.
 
 Mais cette empreinte n'est ni un mot de passe ni une clé unique qu'une personne pourra utiliser à votre insu dans la blockchain.
 
@@ -91,4 +91,3 @@ L'icône de la corbeille permet à l'administrateur de supprimer un gestionnaire
 ![](../.gitbook/assets/v19-suppression-gestionnaire.png)
 
 Le sous-menu Administration a été entièrement présenté. La suite de la documentation porte sur la Sécurité. La sécurité est accessible à l'administrateur et aussi au gestionnaire.
-
