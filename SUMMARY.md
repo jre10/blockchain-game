@@ -1,40 +1,28 @@
 # Table of contents
 
 * [Avant-propos et remerciements](README.md)
+* [Version 0.1](mise-a-jour-v03.08.2021.md)
+* [Sommaire](sommaire.md)
 
 ## Introduction
 
-* [Généralités sur la blockchain et les tokens non-fongibles](introduction/generalites-sur-la-blockchain-et-les-token-non-fongibles.md)
-* [La blockchain pédagogique de Acadee-Formation](introduction/blockchain-pedagogique-de-acadee-formation.md)
+* [Rappels de points-clés pour une bonne pratique](introduction/generalites-sur-la-blockchain-et-les-token-non-fongibles.md)
+* [Connexion à la plateforme Acadee-Formation](introduction/blockchain-pedagogique-de-acadee-formation.md)
 
-## Gestionnaire, validateurs et utilisateurs <a id="gestionnaire-validateur-utilisateur"></a>
+## Le jeu de la tokénisation d'une bouteille de Pétrus <a href="jeu-tokenisation-bouteille-petrus" id="jeu-tokenisation-bouteille-petrus"></a>
 
-* [Les gestionnaires](gestionnaire-validateur-utilisateur/gestionnaire.md)
-* [Les validateurs](gestionnaire-validateur-utilisateur/validateur.md)
-* [Les utilisateurs](gestionnaire-validateur-utilisateur/utilisateur.md)
-* [Smart Contracts](gestionnaire-validateur-utilisateur/smart-contracts.md)
-* [Fonctionnalités](gestionnaire-validateur-utilisateur/fonctions-transversales/README.md)
-  * [Gestion de la preuve](gestionnaire-validateur-utilisateur/fonctions-transversales/gestion-de-la-preuve.md)
-* [Tokens](gestionnaire-validateur-utilisateur/tokens.md)
-* [Applications](gestionnaire-validateur-utilisateur/application/README.md)
-  * [Vote](gestionnaire-validateur-utilisateur/application/vote.md)
-  * [Ekoco](gestionnaire-validateur-utilisateur/application/ekoco.md)
+* [Procédure de tokénisation d'une bouteille de Pétrus](jeu-tokenisation-bouteille-petrus/actions-jeu.md)
+* [Procédure Gestion de Preuve](jeu-tokenisation-bouteille-petrus/procedure-gestion-de-preuve.md)
+* [Procédure Smart Contracts](jeu-tokenisation-bouteille-petrus/procedure-smart-contracts.md)
+* [Les rôles Gestionnaire et Administrateur](jeu-tokenisation-bouteille-petrus/les-roles-gestionnaire-et-administrateur.md)
 
-## Administration et Sécurité <a id="admin-securite"></a>
+## Conclusion et suite à donner <a href="conclusion-suite-a-donner" id="conclusion-suite-a-donner"></a>
 
-* [Administration de la plateforme](admin-securite/admin-plateforme.md)
-* [Détails des commandes du sous-menu Administration](admin-securite/details-des-commandes-du-sous-menu-administration.md)
-* [Sécurité de la plateforme](admin-securite/securite-plateforme.md)
-
-## Le Jeu de la Blockchain Pédagogique Acadee-Formation <a id="jeu-acadee-formation"></a>
-
-* [Règles du jeu pédagogique de la tokénisation d'une bouteille de Pétrus](jeu-acadee-formation/regles-jeu-pedagogique.md)
+* [Conclusion et suite à donner](conclusion-suite-a-donner/conclusion-et-suite-a-donner.md)
 
 ## Annexes
 
-* [Vocabulaire et sigles](annexes/vocabulaire-sigle.md)
-
----
-
-* [À supprimer - Notes](a-supprimer-notes.md)
-
+* [Annexes](annexes/annexes.md)
+* [Décoder un bloc du registre](annexes/decoder-bloc-registre.md)
+* [Historique des versions](annexes/historique-des-versions.md)
+* [Vos idées et propositions de jeu](annexes/vos-idees-et-propositions-de-jeu.md)

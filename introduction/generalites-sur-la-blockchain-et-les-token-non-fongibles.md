@@ -1,21 +1,26 @@
 ---
-description: Des points-clés à connaître pour bien apprécier l'application et le jeu.
+description: >-
+  Version Communauté du jeu. Rappels des points-clés à connaître pour bien
+  apprécier l'application et le jeu. Ces points-clés ont été introduits dans la
+  formation DeFi d'Acadee-Formation.
 ---
 
-# Généralités sur la blockchain et les tokens non-fongibles
+# Rappels de points-clés pour une bonne pratique
 
-Ce rappel de ces points-clés sur la blockchain ne constitue pas un apport théorique sur la blockchain. Pour une présentation de la blockchain sous l'angle de la DeFi \(Finance Décentralisée\), nous vous recommandons la formation en ligne de ACADEE. Lien : [`Contenu, budget et prise en compte du compte formation, cliquer ici`](https://www.acadee-formation.com/nos-formations/formation-la-finance-decentralisee-defi-ethique/)
+> Ce rappel des points constitue le minimum de connaissances à disposer pour bien appréhender l'application et le jeu proposé dans ce document.
+>
+> Pour plus d'information sur la formation DeFi : [cliquer ici](https://www.acadee-formation.com/nos-formations/formation-la-finance-decentralisee-defi-ethique/).
 
-> Ce rappel des points-continue le minimum de connaissance à disposer pour bien appréhender l'application et le jeu proposé dans ce document.
-
-## Quatre points-clés à retenir sur la blockchain <a id="bkmrk-quatre-points-cl%C3%A9s-%C3%A0"></a>
+## Quatre points-clés à retenir pour bien pratiquer <a href="bkmrk-quatre-points-cl-c3-a9s-c3-a0" id="bkmrk-quatre-points-cl-c3-a9s-c3-a0"></a>
 
 1. L'identification par `clés uniques versus` les `mots de passe`
 2. Les quatre usages de la blockchain et les trois retenus par le framework de la société Spuro
 3. L'`authentification` d'un document versus la `sauvegarde` d'un document
 4. Le `stockage` des documents
 
-### 1. L'identification par `clés uniques` versus le `mot de passe` <a id="bkmrk-2.-les-cl%C3%A9s-uniques-"></a>
+Ces quatre points sont détaillés ci-après.
+
+### 1. L'identification par `clés uniques` versus le `mot de passe` <a href="bkmrk-2.-les-cl-c3-a9s-uniques" id="bkmrk-2.-les-cl-c3-a9s-uniques"></a>
 
 Comme toute application, il est nécessaire de s’identifier. Dans le cas de la blockchain, l’identification est particulière dans la mesure celle-ci sera intégrée à votre enregistrement dans le registre. Cette identification passe donc par un système d'une clé unique. Celle ne devra pas être ni perdue, ni connue.
 
@@ -35,24 +40,24 @@ Il est recommandé d'utiliser un `manager de mots de passe et/ou de clés numér
 
 Il est possible aussi d'utiliser des `wallets`, des porte-monnaies numériques généralement sous la forme d'une clé USB.
 
-### 2. Usages de la blockchain et ceux proposés par la plateforme Spuro <a id="bkmrk-1.-usages-de-la-bloc"></a>
+### 2. Usages de la blockchain ciblés ici <a href="bkmrk-1.-usages-de-la-bloc" id="bkmrk-1.-usages-de-la-bloc"></a>
 
-Dans la pratique, la blockchain propose 4 types d'usage.
+Rappel Dessin Spuro sur les usages de blockahin
 
-* Ledger : Authentification de documents  
-* SmartContracts : Contrats intelligents  
-* Token : Titulaire d'un actif numérique représentant un partie d'un bien réel.  
-* Crypto :\_monnaie
+Comme vu précédemment, la blockchain propose 4 types d'usage. Le tableau détaille les applications retenues
 
-Dessin Spuro
+|   Usage Blockchain   | Présent plateforme | Présent dans le Jeu |
+| :------------------: | :----------------: | :-----------------: |
+|         Token        |         Oui        |         Oui         |
+| Gestion de la preuve |         Oui        |  Non (version 0.1)  |
+|    Smart Contracts   |         oui        |  Non (Version 0.1)  |
+|     Cryptomonnaie    |   Non (pas prévu)  |   Non (pas prévu)   |
 
-En dehors des applications pour la crypto-monnaie \(Bitcoin, autres\) qui nécessitent des ressources et une gouvernance particulière, les **trois autres usages sont accessibles par les plateformes Spuro** dont fait partie la blockchain Acadee-Formation.
+En dehors des applications pour la crypto-monnaie (Bitcoin, autres) qui nécessitent des ressources et une gouvernance particulière, les **trois autres usages sont accessibles par les plateformes Spuro** dont fait partie la blockchain Acadee-Formation.
 
-Pour plus d'information, visiter le site : [http://spuro.eu/](http://spuro.eu/)
+### 3. L'authentification d'un document et la sauvegarde de ce document <a href="bkmrk-3.-l-27authentificatio" id="bkmrk-3.-l-27authentificatio"></a>
 
-### 3. L'authentification d'un document et la sauvegarde de ce document <a id="bkmrk-3.-l%27authentificatio"></a>
-
-Il important de retenir que la blockchain n'a pas été conçue pour stocker les documents. La blockchain a été conçue pour identifier, et cela de manière infalsifiable, un document numérique, quel que soit sont format : texte, tableur, photo, dessin, code, sauvegarde d'application, autres\).
+Il important de retenir que la blockchain n'a pas été conçue pour stocker les documents. La blockchain a été conçue pour identifier, et cela de manière infalsifiable, un document numérique, quel que soit sont format : texte, tableur, photo, dessin, code, sauvegarde d'application, autres).
 
 Ceci est rendu possible grâce à un processus de `hachage` du document concerné. Le résultat de cette authentification est un hash, une longue suite aléatoire de caractères, incompréhensible, qu'il conviendra de conserver avec le document.
 
@@ -60,7 +65,7 @@ Pour démontrer l'authenticité du document, il sera nécessaire de rapprocher l
 
 Le hash du document est publique. Pour rapprocher ce document avec le propriétaire, il faut faire appel à une clé d'authentification, principe vu plus haut.
 
-### 4. Le stockage des documents <a id="bkmrk-le-stockage-des-docu"></a>
+### 4. Le stockage des documents <a href="bkmrk-le-stockage-des-docu" id="bkmrk-le-stockage-des-docu"></a>
 
 Comme évoqué plus haut, la blockchain ne sauvegarde pas les documents authentifiés.
 
@@ -70,3 +75,18 @@ Toutefois, les plateformes de la blockchain comme celle de Spuro propose aussi u
 * en `interne`, c'est à dire sur la plateforme elle-même,
 * en `externe`, sur un serveur externe, généralement celui de l'utilisateur.
 
+## Les nodes de la blockchain <a href="bkmrk-les-nodes" id="bkmrk-les-nodes"></a>
+
+Une blockchain disposent normalement de beaucoup de nodes. Ces nodes sont comme des "serveurs" qui sont fédérés et qui permettent l'accès à la blockchain par différentes structures.
+
+Pour l'application pratique et pour le jeu, un seul node est suffisant. C'est ce qui a été retenu par Acadee Formation.
+
+La navigation sur le ou les nodes est visibles uniquement avec le compte administrateur.
+
+## Les différents rôles sur la plateforme
+
+En pratique, sur une plateforme blockchain, il existe 3 niveaux d'utilisateurs :
+
+1. L'administrateur, qui gère le site techniquement et qui déclare les gestionnaires
+2. Les gestionnaires, qui a pour mission de gérer les utilisateurs sans en connaître les caractéristiques et droits d'accès. Il est le représentant de l'entreprise ou de la communauté des utilisateurs.
+3. Les utilisateurs, qui peuvent aussi avoir le rôle de navigateur. L'utilisateur est donc le "client final", celui qui va ouvrir un compte sur la blockchain qui y pratiquer un usage. Ici, il est important de noter que la clé unique ou la clé de récupération ne doivent pas être perdue.

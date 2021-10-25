@@ -1,30 +1,52 @@
 ---
 description: >-
-  Introduction pratique à la blockchain et Découverte de la plateforme de Spuro
-  avec un bac à sable sur un VPS OVH
+  Version Communauté du jeu. Découverte de la tokénisation d'un bien réel par
+  pratique avec la plateforme blockchain pédagogique d'Acadee Formation.
 ---
 
 # Avant-propos et remerciements
 
 ## Avant-propos
 
-Le présent livre, Blockchain - Découverte et Applications avec Acadee-Formation, vous propose, à la suite de la formation DeFi -lien- de découvrir concrètement une application blockchain et de manipuler dessus.
+Ce jeu "libre et ouvert", a pour but d'expérimenter un des plus importants usages de la blockchain (hors cryptomonnaie) : **la tokénisation d'un bien réel**.
 
-Après un bref rappel d'éléments-clés de la blockchain pour bien lire et comprendre ce présent document, après avoir découvert la navigation dans l'application pour les aspects Administration, Sécurité, Gestionnaire et Utilisateurs, vous serez prêt pour jouer !
+Les autres usages de la blockchain (hors cryptomonnaie) étant accessible sur la plateforme, il vous sera possible de les découvrir par vous-même. Ces deux autres usages sont : Gestion de la preuve et les Smart Contracts.
 
-Ce jeu, sur plateau et sur mobile, a pour but d'appliquer concrètement des usages de la blockchain à travers la fonction de "tokénisation" d'un bien. Il s'agit d'un jeu de rôle, avec des rotations, pour simuler des situations réelles et implémenter les actions dans la blockchain proposée en fonction de situations proposées par un lancer d'un seul dé.
+> Note : Acadee-Formation a le projet de faire un jeu complet sur les trois usages mentionnés.
 
-Les différents rôles à tenir, par rotation, sont : le gestionnaire de la blockchain, le validateur, l'utilisateur acheteur et l'utilisateur vendeur. Le bien tokénisé est une bouteille de Pétrus. Vous serez propriétaire, dans la blockchain, de 10% d'un magnum de la cuvée de 1945, estimé aujourd'ui à 24 000 €. Que vous pourrez vendre et acheté pour spéculer ou en être pleinement propriétaire.
+La "tokénisation" d'une bouteille de **Bordeaux Petrus 1945** servira de fil conducteur. vous serez guider dans les actions afin d'optimiser votre découverte pour la pratique de la tokénisation.
 
-Note : Le rôle d'administrateur n'a pas été intégré dans le jeu mais il sera présenté dans la documentation. Ce rôle est réservé aux techniciens de la blockchain.
+> L'idée. Une bouteille vin d'excellence, un Pétrus 1945 d'une valeur de 24 000 € a été "tokénisé" pour la rendre plus accessible à des amateurs de vin et à des spéculateurs. Plus d'information sur cette bouteille : [https://www.vinsgrandscrus.fr/chateau-petrus-1945-magnum.html](https://www.vinsgrandscrus.fr/chateau-petrus-1945-magnum.html).
 
-Toute l'équipe d'Acadee-Formation vous souhaite une bonne lecture et vous dit à bientôt pour une partie.
+> Note : Une notice technique de sa plateforme blockchain est en préparation chez Spuro.
 
-_Note : L'accès est réservé aux personnes enregistrées à la formation DeFi. Formation éligiblre au CPF. Plus d'information ici -Lien-_
+**Nous insistons sur le fait que, pour ce jeu en version 0.1, il ne vous sera pas demandé d'argent. Tout le jeu est fictif.**
 
-## Remerciements <a id="remerciements"></a>
+Contrairement à la proposition initiale qui était centrée sur le "profil utilisateur", vous réaliserez les manipulations avec le "profil Gestionnaire".
 
-Nous remercions Benjamin Farragi et toute son équipe de Spuro.
+Pour créer ce profil de Gestionnaire, il est nécessaire de passer par le profil Administrateur. Acadee-Formation fera savoir rapidement si ce profil administrateur sera :
 
-Nous remercions Samuel Dumas de Acadee-formation.
+* publique, et dans ce cas vous pourrez créer votre profil Gestionnaire
+* ou si ce profil de Gestionnaire sera créé par Acadee-Formation.
 
+Nous vous invitons à Samuel sur le forum la plateforme de Acadee-Formation.
+
+Toute l'équipe d'Acadee-Formation, de Spuro et moi-même, nous vous souhaitons une bonne lecture et une excellente partie.
+
+### Rejoignez-nous
+
+Pour cette version Communauté, l'idée est d'écrire ce jeu de manière collaborative. Principalement avec les auditeurs de la formation Acadee Formation, DéFi, dont je fais parti.
+
+Si vous êtes intéressé, contacter Samuel sur le forum de la plateforme de elearning ou vous pouvez me faire un message, je suis \`José Relland\`
+
+## Remerciements
+
+Nous remercions **Benjamin Faraggi** et toute son équipe de **Spuro**.
+
+Nous remercions **Samuel Dumas** de Acadee-formation.
+
+## Licence
+
+Rédigé par M. **José Relland**, de JRE Services, auditeur DéFi.
+
+Pour les droits de reproduction, contacter M. **Samuel Dumas** de Acadee-Formation.
